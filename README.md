@@ -53,7 +53,12 @@ The courses area as follows:
 
 ### Resources
  * [Azure SDKs and command-line tools](https://azure.microsoft.com/en-us/downloads/)
+ * [Channel 9 DevOps Interviews](https://channel9.msdn.com/Blogs/DevOps-Interviews)
+ * [Channel 9 The DevOps Lab](https://channel9.msdn.com/Shows/DevOps-Lab)
  * [Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/)
+ * [League of Extraordinary Cloud DevOps Advocates](http://leagueofextraordinaryclouddevopsadvocates.com/) or [#LoECDA](http://loecda.com/)
+ * [Welcome to DevOps](https://aka.ms/whatisdevops) 
+
  
 <br>
 
