@@ -71,8 +71,9 @@ The courses area as follows:
 
 
 #### Labs
- * [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/)
- * [Create an DevOps Organization with pre-populated sample content](https://docs.microsoft.com/en-us/azure/devops/demo-gen/use-demo-generator-v2)
+ * Azure DevOps Demo Generator
+   * [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/)
+   * [Create an DevOps Organization with pre-populated sample content](https://docs.microsoft.com/en-us/azure/devops/demo-gen/use-demo-generator-v2)
  * [Azure DevOps Labs.](https://www.azuredevopslabs.com/)
  * [Azure DevOps Server Hands-On Labs](https://www.azuredevopslabs.com/labs/devopsserver/)
  * [DevOps Server 2019 Virtual Machine. User Password: P2ssw0rd](https://www.azuredevopslabs.com/labs/devopsserver/devopsvmdownload/)
