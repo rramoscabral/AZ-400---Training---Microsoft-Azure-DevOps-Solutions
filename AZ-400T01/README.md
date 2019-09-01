@@ -10,9 +10,9 @@ At course completion
  * Describe the benefits of using source control
  * Migrate from TFVC to Git
  * Scale Git for Enterprise DevOps
- *  Implement and manage build infrastructure
- *  Manage application config & secrets
- *  Implement a mobile DevOps strategy
+ * Implement and manage build infrastructure
+ * Manage application config & secrets
+ * Implement a mobile DevOps strategy
  
  
 # Prerequisites
