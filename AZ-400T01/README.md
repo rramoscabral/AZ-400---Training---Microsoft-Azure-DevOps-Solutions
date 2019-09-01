@@ -1,12 +1,15 @@
-# About this course
+##  AZ-400T01-A: Implementing DevOps Development Processes
+
+### About this course
 
 This course provides the knowledge and skills to implement DevOps processes. Students will learn how to use source control, scale Git for an enterprise, and implement and manage build infrastructure.
-Audience profile
+
+### Audience profile
 
 Students in this course are interested in implementing DevOps processes or in passing the Microsoft Azure DevOps Solutions certification exam.
 At course completion
 
-# After completing this course, students will be able to:
+### After completing this course, students will be able to:
  * Describe the benefits of using source control
  * Migrate from TFVC to Git
  * Scale Git for Enterprise DevOps
@@ -15,11 +18,11 @@ At course completion
  * Implement a mobile DevOps strategy
  
  
-# Prerequisites
+### Prerequisites
 
 Fundamental knowledge about Azure, version control, Agile software development, and core software development principles. It would be helpful to have experience in an organization that delivers software.
 
-# Course details
+### Course details
 
 Warning: Microsoft Learning is always updating course content. There may be some differences or updates.
 
