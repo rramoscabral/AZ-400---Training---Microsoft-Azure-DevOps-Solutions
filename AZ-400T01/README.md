@@ -2,12 +2,13 @@
 
 ### About this course
 
-This course provides the knowledge and skills to implement DevOps processes. Students will learn how to use source control, scale Git for an enterprise, and implement and manage build infrastructure.
+This course provides the knowledge and skills to implement DevOps processes.  
+Students will learn how to use source control, scale Git for an enterprise, and implement and manage build infrastructure.
 
 ### Audience profile
 
 Students in this course are interested in implementing DevOps processes or in passing the Microsoft Azure DevOps Solutions certification exam.
-At course completion
+
 
 ### After completing this course, students will be able to:
  * Describe the benefits of using source control
@@ -20,7 +21,8 @@ At course completion
  
 ### Prerequisites
 
-Fundamental knowledge about Azure, version control, Agile software development, and core software development principles. It would be helpful to have experience in an organization that delivers software.
+Fundamental knowledge about Azure, version control, Agile software development, and core software development principles.   
+It would be helpful to have experience in an organization that delivers software.
 
 ### Course details
 
