@@ -1,0 +1,107 @@
+## Course AZ-400T07-A: Designing a DevOps Strategy
+
+### About this course
+This course provides the knowledge and skills to design a DevOps strategy.  
+Students will learn how to plan for transformation, select a project, and create team structures. Students will also learn how to develop quality and security strategies.  
+Planning for migrating and consolidating artifacts and source control will also be covered.
+<br> 
+
+### Audience profile
+Students in this course are interested in planning DevOps projects or in passing the Microsoft Azure DevOps Solutions certification exam.
+
+### After completing this course, students will be able to:
+* Plan for the transformation with shared goals and timelines.
+* Select a project and identify project metrics and KPIs.
+* Create a team and agile organizational structure.
+* Develop a project quality strategy.
+* Plan for secure development practices and compliance rules.
+* Migrate and consolidate artifacts.
+* Migrate and integrate source control measures.
+ 
+<br> 
+ 
+### Prerequisites
+* Fundamental knowledge about Azure, version control, Agile software development, and core software development principles. It would be helpful to have experience in an organization that delivers software.
+* Also, it is recommended that you have experience working in an IDE, as well as some knowledge of the Azure portal. However, students who may not have a technical background in these technologies, but who are curious about DevOps practices as a culture shift, should be able to follow the procedural and expository explanations of continuous integration regardless.
+
+<br> 
+
+
+### Course details
+
+Warning: Microsoft Learning is always updating course content. There may be some differences or updates.
+
+#### Modules details:
+
+ Module | Details |
+| --- | --- |
+| Module 1: Planning for DevOps | In this module, students will learn about transformation planning, project selection, and team structures. |
+| Module 2: Planning for Quality and Security | In this module, students will learn about developing a quality strategy and planning for secure development. |
+| Module 3: Migrating and Consolidating Artifacts and Tools | In this module, students will learn about migrating and consolidating artifacts, and migrating and integrating source control measures. |
+
+
+<br> 
+
+#### Course outline:
+
+
+<table>
+    <tbody>
+        <tr>
+            <th align="center">Module</th>
+            <th align="center">Lessons</th>
+            <th align="center">After completing this module, students will be able to</th>
+        </tr>
+        <tr>
+            <td>Module 1: Planning for DevOps</td>
+            <td>
+                <ul>
+                    <li>Transformation Planning</li>
+                    <li>Project Selection</li>
+                    <li>Team Structures</li>
+                    <li>Lab : Agile Planning and Portfolio Management with Azure Boards</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Plan for the transformation with shared goals and timelines</li>
+                    <li>Select a project and identify project metrics and KPIs</li>
+                    <li>Create a team and agile organizational structure</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Module 2: Planning for Quality and Security</td>
+            <td>
+                <ul>
+                    <li>Planning a Quality Strategy</li>
+                    <li>Planning Secure Development</li>
+                    <li>Lab: Feature Flag Management with LaunchDarkly and AzureDevOps</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Develop a project quality strategy</li>
+                    <li>Plan for secure development practices and compliance rules</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Module 3: Migrating and Consolidating Artifacts and Tools</td>
+            <td>
+                <ul>
+                    <li>Migrating and Consolidating Artifacts</li>
+                    <li>Migrating and Integrating Source Control</li>
+                    <li>Lab: Integrating Azure Repos and Azure Pipelines with Eclipse </li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Migrate and consolidate artifacts</li>
+                    <li>Migrate and integrate source control measures</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
