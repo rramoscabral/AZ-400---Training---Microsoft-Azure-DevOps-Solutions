@@ -1,9 +1,6 @@
 
 ## Course AZ-400T05-A: Implementing Application Infrastructure
 
-
-<br> 
-
 ### About this course
 This course provides knowledge and skills to deploy an application infrastructure in DevOps pipelines.  
 Students will learn how to implement infrastructure as code and configuration management, how to provision Azure infrastructure using common automation tools, and how to deploy an application infrastructure using various Azure services and deployment methodologies.  
