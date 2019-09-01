@@ -3,17 +3,26 @@ AZ-400 Training for Microsoft Official Course (MOC) AZ-400 Microsoft Azure DevOp
 
 <br>
 
+Azure DevOps professionals combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
+
+<br>
+
 ### About the course
 AZ-400 has seven areas of study .
 
 The courses area as follows:
- * AZ-400t01 - Implement DevOps Development Processes
- * AZ-400t02 - Implement Continuous Integration
- * AZ-400t03 - Implement Continuous Delivery
- * AZ-400t04 - Implement Dependency Management
- * AZ-400T05 - Implement Application Infrastructure
- * AZ-400t06 - Implement Continuous Feedback
- * AZ-400t07 - Design a DevOps Strategy
+ 
+| Course | Study Areas | Exam Weights |
+| --- | --- | --- |
+| AZ-400t01 | Implement DevOps Development Processes | 20-25% |
+| AZ-400t02 | Implement Continuous Integration | 10-15% |
+| AZ-400t03 | Implement Continuous Delivery | 10-15% |
+| AZ-400t04 | Implement Dependency Management | 5 -10% |
+| AZ-400T05 | Implement Application Infrastructure | 15-20% |
+| AZ-400t06 | Implement Continuous Feedback | 10-15% |
+| AZ-400t07 | Design a DevOps Strategy | 20-25% |
+
+
  
 <br>
  
