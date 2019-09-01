@@ -2,7 +2,8 @@
 
 
 ### About this course
-This course provides knowledge and skills to implement the DevOps practices of continuous integration. Students will learn how to implement continuous integration in an Azure DevOps pipeline, how to manage code quality and security principles, and how to implement a container build strategy.
+This course provides knowledge and skills to implement the DevOps practices of continuous integration.  
+Students will learn how to implement continuous integration in an Azure DevOps pipeline, how to manage code quality and security principles, and how to implement a container build strategy.
 
 ### Audience profile
 
