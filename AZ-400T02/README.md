@@ -5,9 +5,13 @@
 This course provides knowledge and skills to implement the DevOps practices of continuous integration.  
 Students will learn how to implement continuous integration in an Azure DevOps pipeline, how to manage code quality and security principles, and how to implement a container build strategy.
 
+<br> 
+
 ### Audience profile
 
 Students in this course are interested in DevOps continuous integration processes or in passing the Microsoft Azure DevOps Solutions certification exam.
+
+<br> 
 
 ### After completing this course, students will be able to:
  * Explain why continuous integration matters
@@ -23,12 +27,14 @@ Students in this course are interested in DevOps continuous integration processe
  * Add tooling to measure technical debt
  * Detect open source and other licensing issues
  * Implement a container build strategy
- 
+
+<br> 
  
 ### Prerequisites
  * Students should have fundamental knowledge about Azure, version control, Agile software development, and core software development principles. It would be helpful to have experience in an organization that delivers software.
  * It is recommended that you have experience working in an IDE, as well as some knowledge of the Azure portal. However, students who may not have a technical background in these technologies, but who are curious about DevOps practices as a culture shift, should be able to follow the procedural and expository explanations of continuous integration regardless.
 
+<br> 
 
 ### Course details
 
