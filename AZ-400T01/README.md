@@ -24,9 +24,8 @@ Students in this course are interested in implementing DevOps processes or in pa
  <br> 
  
 ### Prerequisites
-
-Fundamental knowledge about Azure, version control, Agile software development, and core software development principles.   
-It would be helpful to have experience in an organization that delivers software.
+* Fundamental knowledge about Azure, version control, Agile software development, and core software development principles.   
+* It would be helpful to have experience in an organization that delivers software.
 
 <br> 
 
