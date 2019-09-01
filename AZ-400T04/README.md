@@ -5,8 +5,12 @@
 This course provides the knowledge and skills to implement dependency management.  
 Students will learn how to design a dependency management strategy and manage security and compliance.
 
+<br> 
+
 ### Audience profile
 Students in this course are interested in implementing dependency management or in passing the Microsoft Azure DevOps Solutions certification exam. 
+
+<br> 
 
 ### After completing this course, students will be able to:
  * Recommend artifact management tools and practices
@@ -18,12 +22,14 @@ Students in this course are interested in implementing dependency management or 
  * Inspect open source software packages for security and license compliance to align with corporate standards
  * Configure build pipeline to access package security and license rating
  * Configure secure access to package feeds
- 
+
+<br> 
  
 ### Prerequisites
 Fundamental knowledge about Azure, version control, Agile software development, and core software development principles.  
 It would be helpful to have experience in an organization that delivers software.
 
+<br> 
 
 ### Course details
 
