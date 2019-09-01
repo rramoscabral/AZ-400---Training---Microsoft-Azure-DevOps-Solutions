@@ -4,8 +4,12 @@
 ### About this course
 This course provides the knowledge and skills to implement continuous delivery. Students will learn how to design a release strategy, set up a release management workflow, and implement an appropriate deployment pattern.
 
+<br> 
+
 ### Audience profile
 Students in this course are interested in implementing DevOps processes or in passing the Microsoft Azure DevOps Solutions certification exam
+
+<br> 
 
 ### After completing this course, students will be able to:
  * Differentiate between a release and a deployment
@@ -30,11 +34,13 @@ Students in this course are interested in implementing DevOps processes or in pa
  * Implement Canary Release
  * Implement Progressive Exposure Deployment
  
+ <br> 
  
 ### Prerequisites
 Fundamental knowledge about Azure, version control, Agile software development, and core software development principles.
 It would be helpful to have experience in an organization that delivers software.
 
+<br> 
 
 ### Course details
 
