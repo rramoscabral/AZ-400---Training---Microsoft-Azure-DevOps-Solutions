@@ -4,6 +4,8 @@
 ### About this course
 This course provides knowledge and skills to implement the DevOps practices of continuous integration. Students will learn how to implement continuous integration in an Azure DevOps pipeline, how to manage code quality and security principles, and how to implement a container build strategy.
 
+### Audience profile
+
 Students in this course are interested in DevOps continuous integration processes or in passing the Microsoft Azure DevOps Solutions certification exam.
 
 ### After completing this course, students will be able to:
@@ -68,83 +70,37 @@ Warning: Microsoft Learning is always updating course content. There may be some
             </td>
         </tr>
         <tr>
-            <td>Module 2: Scaling git for enterprise DevOps</td>
+            <td>Module 2:Managing Code Quality and Security Policies</td>
             <td>
                 <ul>
-                    <li>How to structure your git repo</li>
-                    <li>Git Branching workflows</li>
-                    <li>Collaborating with Pull Requests</li>
-                    <li>Why care about GitHooks?</li>
-                    <li>Fostering Internal Open Source</li>
-                    <li>Git Version</li>
-                    <li>Public projects</li>
-                    <li>Files in Git</li>
+                    <li>Managing Code Quality</li>
+                    <li>Managing Security Policies</li>
+                    <li>Lab : Managing Technical Debt with Azure DevOps and SonarCloud</li>
+                    <li>Lab : Checking Vulnerabilities using WhiteSource Bolt and Azure DevOps</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Scale Git for Enterprise DevOps</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Module 3: Implement & Manage Build Infrastructure</td>
-            <td>
-                <ul>
-                    <li>The concept of pipelines in DevOps</li>
-                    <li>Azure Pipelines</li>
-                    <li>Evaluate use of Hosted vs Private Agents</li>
-                    <li>Agent pools</li>
-                    <li>Pipelines & Concurrency</li>
-                    <li>Azure DevOps and Open Source projects</li>
-                    <li>Azure Pipelines YAML vs Visual Designer</li>
-                    <li>Setup private agents</li>
-                    <li>Integrate Jenkins with Azure Pipelines</li>
-                    <li>Integration external source control with Azure Pipelines</li>
-                    <li>Analyze & Integrate Docker multi-stage builds</li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li>Implement and manage build infrastructure</li>
+                    <li>Manage code quality including: technical debt SonarCloud, and other tooling solutions.</li>
+                    <li> Manage security policies with open source, OWASP, and WhiteSource Bolt.</li>
+                    <li> Manage code quality including: technical debt, SonarCloud, and other tooling solutions.</li>
                 </ul>
             </td>
         </tr>
         <tr>
-            <td>Module 4: Managing application config & secrets</td>
+            <td>Module 3: Implementing a Container Build Strategy</td>
             <td>
                 <ul>
-                    <li>Introduction to Security</li>
-                    <li>Implement secure & compliant development process</li>
-                    <li>Rethinking application config data</li>
-                    <li>Manage secrets, tokens & certificates</li>
-                    <li>Implement tools for managing security and compliance in a pipeline</li>
+                    <li>Implementing a Container Build Strategy</li>
+                    <li>Lab : Existing .NET Applications with Azure and Docker Images</li>
                 </ul>
             </td>
             <td>
                 <ul>
-                    <li>Manage application config & secrets</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Module 5: Implement a mobile DevOps strategy</td>
-            <td>
-                <ul>
-                    <li>Introduction to Mobile DevOps</li>
-                    <li>Introduction to Visual Studio App Center</li>
-                    <li>Manage mobile target device sets and distribution groups</li>
-                    <li>Manage target UI test device sets</li>
-                    <li>Provision tester devices for deployment</li>
-                    <li>Create public and private distribution groups</li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li>Implement a mobile DevOps strategy</li>
+                    <li>Implement a container strategy including how containers are different from virtual machines and how microservices use containers.</li>
+                    <li> Implement containers using Docker.</li>
                 </ul>
             </td>
         </tr>
     </tbody>
 </table>
-
