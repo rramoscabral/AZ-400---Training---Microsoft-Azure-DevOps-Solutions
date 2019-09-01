@@ -1,0 +1,79 @@
+## Course AZ-400T04-A: Implementing Dependency Management
+
+
+### About this course
+This course provides the knowledge and skills to implement dependency management.  
+Students will learn how to design a dependency management strategy and manage security and compliance.
+
+### Audience profile
+Students in this course are interested in implementing dependency management or in passing the Microsoft Azure DevOps Solutions certification exam. 
+
+### After completing this course, students will be able to:
+ * Recommend artifact management tools and practices
+ * Abstract common packages to enable sharing and reuse
+ * Inspect codebase to identify code dependencies that can be converted to packages
+ * Identify and recommend standardized package types and versions across the solution
+ * Refactor existing build pipelines to implement version strategy that publishes packages
+ * Manage security and compliance
+ * Inspect open source software packages for security and license compliance to align with corporate standards
+ * Configure build pipeline to access package security and license rating
+ * Configure secure access to package feeds
+ 
+ 
+### Prerequisites
+Fundamental knowledge about Azure, version control, Agile software development, and core software development principles.  
+It would be helpful to have experience in an organization that delivers software.
+
+
+### Course details
+
+Warning: Microsoft Learning is always updating course content. There may be some differences or updates.
+
+<table>
+    <tbody>
+        <tr>
+            <th align="center">Module</th>
+            <th align="center">Lessons</th>
+            <th align="center">After completing this module, students will be able to</th>
+        </tr>
+        <tr>
+            <td>Module 1: Designing a Dependency Management Strategy</td>
+            <td>
+                <ul>
+                    <li>Introduction</li>
+                    <li>Packaging dependencies</li>
+                    <li>Package management</li>
+                    <li>Implement a versioning strategy</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Recommend artifact management tools and practices</li>
+                    <li>Abstract common packages to enable sharing and reuse</li>
+                    <li>Inspect codebase to identify code dependencies that can be converted to packages</li>
+                    <li>Identify and recommend standardized package types and versions across the solution</li>
+                    <li>Refactor existing build pipelines to implement version strategy that publishes packages</li>
+                    <li>Manage security and compliance</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Module 2: Manage security and compliance</td>
+            <td>
+                <ul>
+                    <li>Introduction</li>
+                    <li>Package security</li>
+                    <li>Open source software</li>
+                    <li>Integrating license and vulnerability scans</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Inspect open source software packages for security and license compliance to align with corporate standards</li>
+                    <li>Configure build pipeline to access package security and license rating</li>
+                    <li>Configure secure access to package feeds</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
