@@ -17,7 +17,7 @@ The courses area as follows:
 | AZ-400t01 | Implement DevOps Development Processes | 20-25% |
 | AZ-400t02 | Implement Continuous Integration | 10-15% |
 | AZ-400t03 | Implement Continuous Delivery | 10-15% |
-| AZ-400t04 | Implement Dependency Management | 5 -10% |
+| AZ-400t04 | Implement Dependency Management | 5-10% |
 | AZ-400T05 | Implement Application Infrastructure | 15-20% |
 | AZ-400t06 | Implement Continuous Feedback | 10-15% |
 | AZ-400t07 | Design a DevOps Strategy | 20-25% |
@@ -78,6 +78,7 @@ The courses area as follows:
  * [Azure for Architects, 2019-05-22](https://azure.microsoft.com/en-us/resources/azure-for-architects/)
  * [Azure Strategy and Implementation Guide, 2018-11-19](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/en-us/)
  * [Building Cloud Apps with Microsoft Azure, 2013](http://download.microsoft.com/download/8/F/4/8F485F6E-EA78-43B5-84DE-1392EAB13779/Microsoft_Press_eBook_Building_Cloud_Apps_with%20Microsoft_Azure_PDF.pdf)
+ * [Cloud Design Patterns, 2014-04-03](https://www.microsoft.com/en-us/download/details.aspx?id=42026)
  * [DevOps with ASP.NET Core and Azure](https://aka.ms/devopsbook)
  * [The Developer’s Guide to Azure, 2017](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
  * [Security best practices for Azure solutions, 2019-04-19](https://azure.microsoft.com/en-us/resources/security-best-practices-for-azure-solutions/)
