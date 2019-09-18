@@ -62,6 +62,7 @@ The courses area as follows:
 
 ### Resources
  * [Azure DevOps Blog](https://devblogs.microsoft.com/devops/) 
+ * [Azure Code Samples](https://azure.microsoft.com/en-in/resources/samples/)
  * [Azure SDKs and command-line tools](https://azure.microsoft.com/en-us/downloads/)
  * [Channel 9 DevOps Interviews](https://channel9.msdn.com/Blogs/DevOps-Interviews)
  * [Channel 9 The DevOps Lab](https://channel9.msdn.com/Shows/DevOps-Lab)
@@ -81,6 +82,9 @@ The courses area as follows:
  * [Cloud Design Patterns, 2014-04-03](https://www.microsoft.com/en-us/download/details.aspx?id=42026)
  * [Containerize Your Apps with Docker and Kubernetes, 2019-02-22](https://azure.microsoft.com/en-in/resources/containerize-your-apps-with-docker-and-kubernetes/)
  * [DevOps with ASP.NET Core and Azure](https://aka.ms/devopsbook)
+ * [Effective DevOps—Building a DevOps Culture at Scale, 2019-07-22](https://azure.microsoft.com/en-in/resources/effective-devops/)
+ * [Kubernetes: Up and Running, Second Edition, 2019-08-22](https://azure.microsoft.com/en-in/resources/kubernetes-up-and-running/)
+ * [Kubernetes on Azure Solution Booklet, 2019-05-16](https://azure.microsoft.com/en-in/resources/kubernetes-on-azure-solution-booklet/)
  * [Kubernetes objects on Microsoft Azure, 2018-01-19](https://azure.microsoft.com/en-us/resources/kubernetes-objects-on-microsoft-azure/en-us/)
  * [The Developer’s Guide to Azure, 2017](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
  * [Security best practices for Azure solutions, 2019-04-19](https://azure.microsoft.com/en-us/resources/security-best-practices-for-azure-solutions/)
