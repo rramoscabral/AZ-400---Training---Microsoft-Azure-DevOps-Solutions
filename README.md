@@ -79,7 +79,9 @@ The courses area as follows:
  * [Azure Strategy and Implementation Guide, 2018-11-19](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/en-us/)
  * [Building Cloud Apps with Microsoft Azure, 2013](http://download.microsoft.com/download/8/F/4/8F485F6E-EA78-43B5-84DE-1392EAB13779/Microsoft_Press_eBook_Building_Cloud_Apps_with%20Microsoft_Azure_PDF.pdf)
  * [Cloud Design Patterns, 2014-04-03](https://www.microsoft.com/en-us/download/details.aspx?id=42026)
+ * [Containerize Your Apps with Docker and Kubernetes, 2019-02-22](https://azure.microsoft.com/en-in/resources/containerize-your-apps-with-docker-and-kubernetes/)
  * [DevOps with ASP.NET Core and Azure](https://aka.ms/devopsbook)
+ * [Kubernetes objects on Microsoft Azure, 2018-01-19](https://azure.microsoft.com/en-us/resources/kubernetes-objects-on-microsoft-azure/en-us/)
  * [The Developer’s Guide to Azure, 2017](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
  * [Security best practices for Azure solutions, 2019-04-19](https://azure.microsoft.com/en-us/resources/security-best-practices-for-azure-solutions/)
  
