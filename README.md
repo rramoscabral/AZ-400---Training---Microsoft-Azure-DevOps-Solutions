@@ -1,5 +1,5 @@
 # AZ-400 - Training - Microsoft Azure DevOps Solutions
-AZ-400 Training for Microsoft Official Course (MOC) AZ-400 Microsoft Azure DevOps Solutions
+Training for Microsoft Official Course (MOC) AZ-400 Microsoft Azure DevOps Solutions
 
 <br>
 
