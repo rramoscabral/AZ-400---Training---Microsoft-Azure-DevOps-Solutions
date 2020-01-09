@@ -82,7 +82,7 @@ The courses area as follows:
  * [Cloud Design Patterns, 2014-04-03](https://www.microsoft.com/en-us/download/details.aspx?id=42026)
  * [Containerize Your Apps with Docker and Kubernetes, 2019-02-22](https://azure.microsoft.com/en-in/resources/containerize-your-apps-with-docker-and-kubernetes/)
  * [DevOps with ASP.NET Core and Azure](https://aka.ms/devopsbook)
- * [Drive Efficiency and Productivity with Machine Learning Operations](https://azure.microsoft.com/en-us/resources/drive-efficiency-and-productivity-with-machine-learning-operations/)
+ * [Drive Efficiency and Productivity with Machine Learning Operations, 2019-12-05](https://azure.microsoft.com/en-us/resources/drive-efficiency-and-productivity-with-machine-learning-operations/)
  * [Effective DevOps—Building a DevOps Culture at Scale, 2019-07-22](https://azure.microsoft.com/en-in/resources/effective-devops/)
  * [Kubernetes: Up and Running, Second Edition, 2019-08-22](https://azure.microsoft.com/en-in/resources/kubernetes-up-and-running/)
  * [Kubernetes on Azure Solution Booklet, 2019-05-16](https://azure.microsoft.com/en-in/resources/kubernetes-on-azure-solution-booklet/)
