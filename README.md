@@ -53,6 +53,15 @@ Software list to run the course and workshop labs available [here](./Lab-Setup.m
   * [Run Azure CLI in a Docker container](https://docs.microsoft.com/en-us/cli/azure/run-azure-cli-docker)
  
  
+<br> 
+  
+## Samples
+ * [.NET/C# samples for integrating with Azure DevOps Services and Azure DevOps Server](https://github.com/microsoft/azure-devops-dotnet-samples)
+ * [Sample applications for Azure DevOps Project](https://github.com/microsoft/devops-project-samples)
+ * [Samples showing how to auth with Azure DevOp](https://github.com/microsoft/azure-devops-auth-samples)
+ * [Sample Windows app to show devops best practices](https://github.com/microsoft/devops-for-windows-apps)
+ 
+
 <br>
 
  ## Pricing for Azure DevOps
