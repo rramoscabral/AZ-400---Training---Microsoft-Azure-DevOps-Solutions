@@ -7,11 +7,17 @@ Azure DevOps professionals combine people, process, and technologies to continuo
 
 <br>
 
-### About the course
-AZ-400 has seven areas of study .
+## About the course
+In 2020 the course was redesigned to 5 sequential days with 20 modules with the identification ‘**AZ-400T00-A**: Designing and Implementing Microsoft DevOps solutions’
 
-The courses area as follows:
- 
+<br>
+
+The Course Outline is available [here](https://docs.microsoft.com/en-us/learn/certifications/courses/az-400t00).
+
+<br>
+
+The course content before the reformulation was divided into sub-courses (AZ-400T0X) and these were one or two days which means that it was not mandatory to follow all the sub-courses.
+
 | Course | Study Areas | Exam Weights |
 | --- | --- | --- |
 | [AZ-400T01](./AZ-400T01/README.md) | Implement DevOps Development Processes | 20-25% |
