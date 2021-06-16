@@ -22,6 +22,20 @@
 | Visual Studio Community, Professional or Enterprise | https://visualstudio.microsoft.com/vs/ |
 | Visual Studio Code | https://code.visualstudio.com/ |
 
+
+
+<br>
+
+## Visual Studio Extensions
+
+| Extension | Link |
+| --- | --- |
+| Code Quality NDepend for Azure DevOps, TFS 2017 and TFS 2018 | https://marketplace.visualstudio.com/items?itemName=ndepend.ndependextension&targetId=2ec491f3-0a97-4e53-bfef-20bf80c7e1ea |
+| Resharper Code Quality Analysis | https://marketplace.visualstudio.com/items?itemName=alanwales.resharper-code-analysis |
+
+
+
+
 <br>
 
 ## Visual Studio Code Extensions
@@ -36,6 +50,8 @@
 | Visual Studio Code Azure Tools Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack
 | Visual Studio Code C# Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp |
 | Visual Studio Code PowerShell Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell |
+
+
 
 
 
