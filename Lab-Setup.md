@@ -10,7 +10,7 @@
 | Git for Windows | https://git-scm.com/download/win |
 | Node.js & npm | https://nodejs.org/en/download/ |
 | PowerShell Core (Windows, Linux) | https://github.com/PowerShell/PowerShell/releases |
-| Python 3.7| https://www.python.org/downloads/release/python-370/ |
+| Python | https://www.python.org/downloads/ |
 
 <br>
 
