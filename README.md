@@ -82,8 +82,10 @@ Software list to run the course and workshop labs available [here](./Lab-Setup.m
  * [Azure SDKs and command-line tools](https://azure.microsoft.com/en-us/downloads/)
  * [Channel 9 DevOps Interviews](https://channel9.msdn.com/Blogs/DevOps-Interviews)
  * [Channel 9 The DevOps Lab](https://channel9.msdn.com/Shows/DevOps-Lab)
- * [Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/)
+ * [DevOps Resource Center from Microsoft](https://docs.microsoft.com/en-us/devops/)
  * [League of Extraordinary Cloud DevOps Advocates](http://leagueofextraordinaryclouddevopsadvocates.com/) or [#LoECDA](http://loecda.com/)
+ * [Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/)
+
 
 
 <br>
