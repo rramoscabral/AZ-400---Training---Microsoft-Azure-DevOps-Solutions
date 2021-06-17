@@ -14,6 +14,18 @@
 
 <br>
 
+## Azure DevOps Extensions
+
+ * [Azure DevOps Extensions Marketplace](https://marketplace.visualstudio.com/azuredevops)
+
+| Extension | Link |
+| --- | --- |
+| ARM Outputs | https://marketplace.visualstudio.com/items?itemName=keesschollaart.arm-outputs |
+| Team Project Health | https://marketplace.visualstudio.com/items?itemName=ms-devlabs.TeamProjectHealth |
+
+
+<br>
+
 
 ## Visual Studio IDE
 
@@ -24,9 +36,12 @@
 
 
 
+
 <br>
 
 ## Visual Studio Extensions
+
+ * [Visual Studio Extensions Marketplace](https://marketplace.visualstudio.com/vs)
 
 | Extension | Link |
 | --- | --- |
@@ -40,10 +55,12 @@
 
 ## Visual Studio Code Extensions
 
+ * [Visual Studio Code Extensions Marketplace](https://marketplace.visualstudio.com/vscode)
+
 | Extension | Link |
 | --- | --- |
 | Visual Studio Code Azure Account Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account |
-| Visual Studio Code Azure CLI Tools Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli 
+| Visual Studio Code Azure CLI Tools Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli |
 | Visual Studio Code Azure CLI Pipelines Extension |https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines |
 | Visual Studio Code Azure Repos Extension |https://marketplace.visualstudio.com/items?itemName=ms-vsts.team |
 | Visual Studio Code Azure Resource Manager Tools Extension | https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools |
