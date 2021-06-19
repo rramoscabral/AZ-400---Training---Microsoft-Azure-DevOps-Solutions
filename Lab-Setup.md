@@ -23,6 +23,35 @@
 | ARM Outputs | https://marketplace.visualstudio.com/items?itemName=keesschollaart.arm-outputs |
 | Team Project Health | https://marketplace.visualstudio.com/items?itemName=ms-devlabs.TeamProjectHealth |
 
+<br>
+
+**Inspecting and validating code bases for compliance**
+
+| Extension | Link |
+| --- | --- |
+| BinSkim | https://blogs.msdn.microsoft.com/secdevblog/2016/08/17/introducing-binskim/ |
+| Checkmarx CxSAST | https://marketplace.visualstudio.com/items?itemName=checkmarx.cxsast |
+| Fortify | https://marketplace.visualstudio.com/items?itemName=fortifyvsts.hpe-security-fortify-vsts |
+| OWASP Zed Attack Proxy Scan | https://marketplace.visualstudio.com/items?itemName=kasunkodagoda.owasp-zap-scan |
+
+<br>
+
+**Work management tools**
+
+| Extension | Link |
+| --- | --- |
+| Trello | https://marketplace.visualstudio.com/items?itemName=ms-vsts.services-trello |
+| Jira | https://marketplace.visualstudio.com/items?itemName=solidify-labs.jira-devops-migration |
+
+<br>
+
+**Testing**
+
+| Extension | Link |
+| --- | --- |
+| Pester Test Runner | https://marketplace.visualstudio.com/items?itemName=Pester.PesterRunner |
+| SoapUI Test Task | https://marketplace.visualstudio.com/items?itemName=AjeetChouksey.soapui |
+
 
 <br>
 
@@ -46,6 +75,7 @@
 | Extension | Link |
 | --- | --- |
 | Code Quality NDepend for Azure DevOps, TFS 2017 and TFS 2018 | https://marketplace.visualstudio.com/items?itemName=ndepend.ndependextension&targetId=2ec491f3-0a97-4e53-bfef-20bf80c7e1ea |
+| Git History | https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory |
 | Resharper Code Quality Analysis | https://marketplace.visualstudio.com/items?itemName=alanwales.resharper-code-analysis |
 
 
