@@ -100,6 +100,7 @@ Software list to run the course and workshop labs available [here](./Lab-Setup.m
  * [DevOps with ASP.NET Core and Azure](https://aka.ms/devopsbook)
  * [Drive Efficiency and Productivity with Machine Learning Operations, 2019-12-05](https://azure.microsoft.com/en-us/resources/drive-efficiency-and-productivity-with-machine-learning-operations/)
  * [Effective DevOps—Building a DevOps Culture at Scale, 2019-07-22](https://azure.microsoft.com/en-in/resources/effective-devops/)
+ * [PRO Git 2nd Edition, Scott Chacon, 2021-06-14](https://git-scm.com/book/en/v2)
  * [Kubernetes: Up and Running, Second Edition, 2019-08-22](https://azure.microsoft.com/en-in/resources/kubernetes-up-and-running/)
  * [Kubernetes on Azure Solution Booklet, 2019-05-16](https://azure.microsoft.com/en-in/resources/kubernetes-on-azure-solution-booklet/)
  * [Kubernetes objects on Microsoft Azure, 2018-01-19](https://azure.microsoft.com/en-us/resources/kubernetes-objects-on-microsoft-azure/en-us/)
