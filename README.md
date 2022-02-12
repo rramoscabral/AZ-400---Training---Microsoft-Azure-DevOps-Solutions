@@ -120,21 +120,19 @@ git config --global credential.helper manager
  * [Sample Windows app to show devops best practices](https://github.com/microsoft/devops-for-windows-apps)
  
 
-
- 
-
 [return to top](#top)
 
 <br>
 
 ---
 
-### Pricing
+## Pricing
 <a id="pricing" />
 
 <br>
- ## Pricing for Azure DevOps
- * [Azure DevOps Services & Azure DevOps Server](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/)
+
+* [Pricing for Azure DevOps Services](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/)
+* [Pricing for Azure DevOps Server](https://azure.microsoft.com/en-us/pricing/details/devops/server/)
 
 
 [return to top](#top)
