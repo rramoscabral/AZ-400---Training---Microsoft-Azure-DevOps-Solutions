@@ -1,6 +1,30 @@
+<a id="top" />
+
+
+[Back to main](./README.md)
+
+
 # Software list to run the labs 
 
+ - [Required software](#required-software)
+ - [Azure DevOps Extensions](#azure-devOps-extensions)
+ - [Visual Studio & Visual Studio Code IDE](#microsoft-ide)
+ - [Visual Studio Extensions](#visual-studio-extensions)
+ - [Visual Studio Code Extensions](#visual-studio-code-extensions)
+
+
+**Notes:**
+ 1. The software list is ordered alphabetically and is not ordered by the installation sequence.
+
+<br>
+
+---
+
+<br>
+
 ## Required software
+
+<a id="required-software" />
 
 | Software | Link |
 | --- | --- |
@@ -12,11 +36,19 @@
 | PowerShell Core (Windows, Linux) | https://github.com/PowerShell/PowerShell/releases |
 | Python | https://www.python.org/downloads/ |
 
+
+[return to top](#top)
+<br>
+
+---
+
 <br>
 
 ## Azure DevOps Extensions
 
- * [Azure DevOps Extensions Marketplace](https://marketplace.visualstudio.com/azuredevops)
+<a id="azure-devOps-extensions" />
+
+[Azure DevOps Extensions Marketplace](https://marketplace.visualstudio.com/azuredevops)
 
 | Extension | Link |
 | --- | --- |
@@ -53,24 +85,40 @@
 | SoapUI Test Task | https://marketplace.visualstudio.com/items?itemName=AjeetChouksey.soapui |
 
 
+[return to top](#top)
+<br>
+
+---
+
 <br>
 
 
-## Visual Studio IDE
+## Visual Studio & Visual Studio Code IDE
+
+<a id="microsoft-ide" />
 
 | Software | Link |
 | --- | --- |
 | Visual Studio Community, Professional or Enterprise | https://visualstudio.microsoft.com/vs/ |
 | Visual Studio Code | https://code.visualstudio.com/ |
 
+**Notes:**
+ 1. .NET Core 3 SDK is not 100% compatible with Visual Studio 2017, you can use it by enable "previews of the .NET Core SDK"
+ 2. .NET 6 is not 100% compatible with Visual Studio 2019
 
 
+[return to top](#top)
+<br>
+
+---
 
 <br>
 
 ## Visual Studio Extensions
 
- * [Visual Studio Extensions Marketplace](https://marketplace.visualstudio.com/vs)
+<a id="visual-studio-extensions" />
+
+[Visual Studio Extensions Marketplace](https://marketplace.visualstudio.com/vs)
 
 | Extension | Link |
 | --- | --- |
@@ -81,36 +129,32 @@
 
 
 
+[return to top](#top)
+<br>
+
+---
+
 <br>
 
 ## Visual Studio Code Extensions
 
- * [Visual Studio Code Extensions Marketplace](https://marketplace.visualstudio.com/vscode)
+<a id="visual-studio-code-extensions" />
+
+[Visual Studio Code Extensions Marketplace](https://marketplace.visualstudio.com/vscode)
 
 | Extension | Link |
 | --- | --- |
-| Visual Studio Code Azure Account Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account |
-| Visual Studio Code Azure CLI Tools Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli |
-| Visual Studio Code Azure CLI Pipelines Extension |https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines |
-| Visual Studio Code Azure Repos Extension |https://marketplace.visualstudio.com/items?itemName=ms-vsts.team |
-| Visual Studio Code Azure Resource Manager Tools Extension | https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools |
-| Visual Studio Code Azure Tools Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack
-| Visual Studio Code C# Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp |
-| Visual Studio Code PowerShell Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell |
+| Ansible VS Code Extension by Red Hat | https://marketplace.visualstudio.com/items?itemName=redhat.ansible | 
+| Azure Account Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account |
+| Azure CLI Tools Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli |
+| Azure CLI Pipelines Extension |https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines |
+| Azure Repos Extension |https://marketplace.visualstudio.com/items?itemName=ms-vsts.team |
+| Azure Resource Manager Tools Extension | https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools |
+| Azure Tools Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack |
+| Bicep | https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep |
+| C# Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp |
+| PowerShell Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell |
 
 
-
-
-
-**Notes:**
- 1. The software list is ordered alphabetically and is not ordered by the installation sequence
- 2. .NET Core 3 SDK is not 100% compatible with Visual Studio 2017, you can use it by enable "previews of the .NET Core SDK"
- 
+[return to top](#top)
 <br>
-
-## Extensions Marketplace
- * [Azure DevOps](https://marketplace.visualstudio.com/azuredevops)
- * [Visual Studio IDE](https://marketplace.visualstudio.com/vs)
- * [Visual Studio Code](https://marketplace.visualstudio.com/vscode)
-
-
