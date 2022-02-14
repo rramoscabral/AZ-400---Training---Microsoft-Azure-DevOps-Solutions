@@ -147,22 +147,26 @@ git config --global credential.helper manager
 
 <a id="resources" />
 
-**Web Sites, Blogs, ...**
-
- * [Azure DevOps Blog](https://devblogs.microsoft.com/devops/) 
- * [Azure Code Samples](https://azure.microsoft.com/en-in/resources/samples/)
- * [Azure SDKs and command-line tools](https://azure.microsoft.com/en-us/downloads/)
- * [Channel 9 DevOps Interviews](https://channel9.msdn.com/Blogs/DevOps-Interviews)
- * [Channel 9 The DevOps Lab](https://channel9.msdn.com/Shows/DevOps-Lab)
- * [DevOps Resource Center from Microsoft](https://docs.microsoft.com/en-us/devops/)
- * [League of Extraordinary Cloud DevOps Advocates](http://leagueofextraordinaryclouddevopsadvocates.com/) or [#LoECDA](http://loecda.com/)
- * [Microsoft Azure Blog](https://azure.microsoft.com/en-us/blog/)
-
-
+Here are presented totally free digital resources in web format (Web Sites, Blogs, ...) and ebooks.
 
 <br>
 
-**Free eBooks**
+**Web Sites, Blogs, ...**
+
+|  Title | Description |
+| --- | --- | 
+| [Azure Code Samples](https://azure.microsoft.com/en-in/resources/samples/) |  Get started with Microsoft developer tools and technologies. Explore our samples and discover the things you can build. |
+| [Azure Blog](https://azure.microsoft.com/en-us/blog/) | Official Azure blog about Microsoft’s cloud. |
+| [Azure DevOps Blog](https://devblogs.microsoft.com/devops/) | Official Azure DevOps Blog about DevOps, Git, and Agile updates from the team building Azure DevOps |
+| [Azure DevOps Resource Center](https://docs.microsoft.com/en-us/devops/) | This center combines our resources on learning DevOps practices, Git version control, Agile methods, how we work with DevOps at Microsoft, and how you can assess your own DevOps progression. | 
+| [Azure SDKs and command-line tools](https://azure.microsoft.com/en-us/downloads/) | SDKs and tools for managing and interacting with Azure services. |
+| [Channel 9 DevOps Interviews](https://channel9.msdn.com/Blogs/DevOps-Interviews) | ***Show withdrawn*** A DevOps interview show. |
+| [Microsoft The DevOps Lab show](https://channel9.msdn.com/Blogs/DevOps-Interviews) | The DevOps Lab show has been reimagined for FY22!  |
+| [League of Extraordinary Cloud DevOps Advocates](https://leagueofextraordinaryclouddevopsadvocates.com/) or [#LoECDA](https://loecda.com/) or [LoECDA Short Link](https://aka.ms/TheLeague) | Microsoft League of Extraordinary Cloud DevOps Advocates. |
+
+<br>
+
+**Free ebooks**
 
 | Title | Author | Launch date | URL |
 | --- | --- | --- | --- | 
@@ -174,11 +178,13 @@ git config --global credential.helper manager
 | Azure Strategy and Implementation Guide - Fourth Edition | Jack Lee, Greg Leonardo, Jason Milgram, David Rendón | 2021-04-05 | [Link here](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide-fourth-edition/)  |
 | Building Cloud Apps with Microsoft Azure | Scott Guthrie, Mark Simms, Tom Dykstra, Rick Anderson, Mike Wasson | 2013 | [Link here](https://download.microsoft.com/download/8/F/4/8F485F6E-EA78-43B5-84DE-1392EAB13779/Microsoft_Press_eBook_Building_Cloud_Apps_with%20Microsoft_Azure_PDF.pdf)  | 
 | Cloud Design Patterns | Microsoft | 2014-04-03 | [Link here](https://www.microsoft.com/en-us/download/details.aspx?id=42026)  | 
+| Docker Cookbook - Second Edition | Ken Cochrane , Jeeva S. Chelladhurai , Neependra K Khare  | August 2018 | [Link here](https://www.packtpub.com/free-ebook/Docker-Cookbook-Second-Edition/9781788626866) |
 | Hands-On Kubernetes on Azure - Third Edition + Designing Distributed Systems + The Azure Cloud Native Architecture Mapbook | Several authors| 2021-05-07 | [Link here](https://azure.microsoft.com/en-us/resources/kubernetes-ebook-collection/), [Alternative link here](https://azure.microsoft.com/en-us/resources/kubernetes-up-and-running/) | 
 |DevOps with ASP.NET Core and Azure | Cam Soper, Scott Addie, Colin Dembovsky | 2022 | [Link here](https://aka.ms/devopsbook) | 
 | Drive Efficiency and Productivity with Machine Learning Operations | Microsoft | 2019-12-05 | [Link here](https://azure.microsoft.com/en-us/resources/drive-efficiency-and-productivity-with-machine-learning-operations/) | 
 | Effective DevOps—Building a DevOps Culture at Scale  | Jennifer Davis, Ryn Daniels| 2019-07-22 | [Not Working](https://azure.microsoft.com/en-us/resources/effective-devops/) | 
 | Learn PowerShell Core 6.0 | David das Neves, Jan-Hendrik Peters  | July 2018 |  [Link here](https://www.packtpub.com/free-ebook/Learn-PowerShell-Core-60/9781788838986)  |
+| Mastering Kubernetes - Second Edition | Gigi Sayfan  | April 2018 | [Link here](https://www.packtpub.com/free-ebook/Mastering-Kubernetes-Second-Edition/9781788999786) |
 | PRO Git 2nd Edition | Scott Chacon | 2014 | [Link here](https://git-scm.com/book/en/v2) | 
 | Kubernetes Cookbook - Second Edition | Hideto Saito , Hui-Chuan Chloe Lee , Ke-Jou Carol Hsu | May 2018 | [Link here](https://www.packtpub.com/free-ebook/Kubernetes-Cookbook-Second-Edition/9781788837606) |
 | Kubernetes on Azure Solution Bookle | Microsoft | 2021-04-10 | [Link here](https://azure.microsoft.com/en-in/resources/kubernetes-on-azure-solution-booklet/) | 
@@ -186,6 +192,7 @@ git config --global credential.helper manager
 | The Developer’s Guide to Azure | Microsoft | 2017 | [Link here](https://azure.microsoft.com/en-us/campaigns/developer-guide/) | 
 | Serverless Design Patterns and Best Practices | Brian Zambrano | April 2018 | [Link here](https://www.packtpub.com/free-ebook/Serverless-Design-Patterns-and-Best-Practices/978178862) |
 | Security best practices for Azure solutions | Microsoft | 2019-04-19 | [Link here](https://azure.microsoft.com/en-us/resources/security-best-practices-for-azure-solutions/) | 
+| Software Architect's Handbook | Joseph Ingeno | August 2018 | [Link here](https://www.packtpub.com/product/Software-Architects-Handbook/9781788624060) |
 
 
 [return to top](#top)
