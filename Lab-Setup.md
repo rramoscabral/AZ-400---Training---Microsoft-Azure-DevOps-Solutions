@@ -16,11 +16,11 @@
 **Notes:**
  1. The software list is ordered alphabetically and is not ordered by the installation sequence.
 
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
 ## Required software
 
@@ -37,12 +37,12 @@
 | Python | https://www.python.org/downloads/ |
 
 
-[return to top](#top)
-<br>
+[Return to top](#top)
+<br/>
 
 ---
 
-<br>
+<br/>
 
 ## Azure DevOps Extensions
 
@@ -55,7 +55,7 @@
 | ARM Outputs | https://marketplace.visualstudio.com/items?itemName=keesschollaart.arm-outputs |
 | Team Project Health | https://marketplace.visualstudio.com/items?itemName=ms-devlabs.TeamProjectHealth |
 
-<br>
+<br/>
 
 **Inspecting and validating code bases for compliance**
 
@@ -66,7 +66,7 @@
 | Fortify | https://marketplace.visualstudio.com/items?itemName=fortifyvsts.hpe-security-fortify-vsts |
 | OWASP Zed Attack Proxy Scan | https://marketplace.visualstudio.com/items?itemName=kasunkodagoda.owasp-zap-scan |
 
-<br>
+<br/>
 
 **Work management tools**
 
@@ -75,7 +75,7 @@
 | Trello | https://marketplace.visualstudio.com/items?itemName=ms-vsts.services-trello |
 | Jira | https://marketplace.visualstudio.com/items?itemName=solidify-labs.jira-devops-migration |
 
-<br>
+<br/>
 
 **Testing**
 
@@ -85,12 +85,12 @@
 | SoapUI Test Task | https://marketplace.visualstudio.com/items?itemName=AjeetChouksey.soapui |
 
 
-[return to top](#top)
-<br>
+[Return to top](#top)
+<br/>
 
 ---
 
-<br>
+<br/>
 
 
 ## Visual Studio & Visual Studio Code IDE
@@ -107,12 +107,12 @@
  2. .NET 6 is not 100% compatible with Visual Studio 2019
 
 
-[return to top](#top)
-<br>
+[Return to top](#top)
+<br/>
 
 ---
 
-<br>
+<br/>
 
 ## Visual Studio Extensions
 
@@ -129,12 +129,12 @@
 
 
 
-[return to top](#top)
-<br>
+[Return to top](#top)
+<br/>
 
 ---
 
-<br>
+<br/>
 
 ## Visual Studio Code Extensions
 
@@ -156,5 +156,5 @@
 | PowerShell Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell |
 
 
-[return to top](#top)
-<br>
+[Return to top](#top)
+<br/>

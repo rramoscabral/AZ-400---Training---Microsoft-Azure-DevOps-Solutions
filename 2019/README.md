@@ -1,5 +1,7 @@
 [Back to main](../README.md)
 
+<br/>
+
 The course content before the reformulation was divided into sub-courses (AZ-400T0X) and these were one or two days which means that it was not mandatory to follow all the sub-courses.
 
 | Course | Study Areas | Exam Weights |
@@ -11,3 +13,8 @@ The course content before the reformulation was divided into sub-courses (AZ-400
 | [AZ-400T05](AZ-400T05.md) | Implement Application Infrastructure | 15-20% |
 | [AZ-400T06](AZ-400T06.md) | Implement Continuous Feedback | 10-15% |
 | [AZ-400T07](AZ-400T07.md) | Design a DevOps Strategy | 20-25% |
+
+
+<br/>
+
+[Back to main](../README.md)

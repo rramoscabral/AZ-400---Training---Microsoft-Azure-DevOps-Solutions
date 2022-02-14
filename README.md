@@ -14,7 +14,7 @@ Azure DevOps professionals combine people, process, and technologies to continuo
 
 
 
-<br>
+<br/>
 
 ## About the course
 
@@ -25,7 +25,7 @@ Azure DevOps professionals combine people, process, and technologies to continuo
  - In 2020 the course was redesigned to 5 sequential days with 20 modules (Learning Paths) with the identification **AZ-400T00-A**: Designing and Implementing Microsoft DevOps solutions.
  - In 2019 the course content was divided into sub-courses (AZ-400T0X) and these were one or two days which means that it was not mandatory to follow all the sub-courses.
 
-<br>
+<br/>
 
 The Course Outline is available [here](https://docs.microsoft.com/en-us/learn/certifications/courses/az-400t00).
 
@@ -38,16 +38,16 @@ The overview of Microsoft Azure Certified is available [here](http://aka.ms/Azur
 The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoster).
 
 
-<br>
+<br/>
 
 
-[return to top](#top)
+[Return to top](#top)
 
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
  
  
 ## Microsoft Labs and Workshops
@@ -66,13 +66,13 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
  * [DevOps Server 2019 Virtual Machine. User Password: P2ssw0rd](https://www.azuredevopslabs.com/labs/devopsserver/devopsvmdownload/)
   
   
- <br>
+ <br/>
 
 **Software List**
 
 Software list to run the course and workshop labs available [here](./Lab-Setup.md)
 
-<br>
+<br/>
 
 **GIT**
 
@@ -85,14 +85,14 @@ git config --global user.email "<your email>"
 git config --global credential.helper manager
 ```
 
-<br>
+<br/>
 
  **Azure command-line tools**
 
  Manage your Azure services and apps using scripts from the command line.
   * **Warning** : Azure PowerShell “Az” module will replace “AzureRM” module. The current version of some Az modules is not compatible with the older AzureRM modules.
 
- <br>
+ <br/>
  
 **Cloud and standalone container**
 
@@ -102,13 +102,13 @@ git config --global credential.helper manager
   * [Run Azure CLI in a Docker container](https://docs.microsoft.com/en-us/cli/azure/run-azure-cli-docker)
  
  
-[return to top](#top)
+[Return to top](#top)
 
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
   
 ## Samples
 
@@ -120,28 +120,28 @@ git config --global credential.helper manager
  * [Sample Windows app to show devops best practices](https://github.com/microsoft/devops-for-windows-apps)
  
 
-[return to top](#top)
+[Return to top](#top)
 
-<br>
+<br/>
 
 ---
 
 ## Pricing
 <a id="pricing" />
 
-<br>
+<br/>
 
 * [Pricing for Azure DevOps Services](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/)
 * [Pricing for Azure DevOps Server](https://azure.microsoft.com/en-us/pricing/details/devops/server/)
 
 
-[return to top](#top)
+[Return to top](#top)
 
-<br>
+<br/>
 
 ---
 
-<br>
+<br/>
 
 ## Resources
 
@@ -149,7 +149,7 @@ git config --global credential.helper manager
 
 Here are presented totally free digital resources in web format (Web Sites, Blogs, ...) and ebooks.
 
-<br>
+<br/>
 
 **Web Sites, Blogs, ...**
 
@@ -164,7 +164,7 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 | Microsoft The DevOps Lab show | The DevOps Lab show has been reimagined for FY22! | [Link here](https://docs.microsoft.com/en-us/shows/devops-lab/) |
 | League of Extraordinary Cloud DevOps Advocates | Microsoft League of Extraordinary Cloud DevOps Advocates. | [Link here](https://leagueofextraordinaryclouddevopsadvocates.com/) or [#LoECDA](https://loecda.com/) or [LoECDA Short Link](https://aka.ms/TheLeague) | 
 
-<br>
+<br/>
 
 **Free ebooks**
 
@@ -195,6 +195,6 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 | Software Architect's Handbook | Joseph Ingeno | August 2018 | [Link here](https://www.packtpub.com/product/Software-Architects-Handbook/9781788624060) |
 
 
-[return to top](#top)
+[Return to top](#top)
 
-<br>
+<br/>
