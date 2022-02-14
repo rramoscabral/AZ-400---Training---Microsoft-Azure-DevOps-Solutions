@@ -195,6 +195,11 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 | Software Architect's Handbook | Joseph Ingeno | August 2018 | [Link here](https://www.packtpub.com/product/Software-Architects-Handbook/9781788624060) |
 
 
+**Newsletter**
+-[Microsoft.Source newsletter](https://azure.microsoft.com/en-us/resources/join-the-azure-developer-community/)
+
+
+
 [Return to top](#top)
 
 <br/>
