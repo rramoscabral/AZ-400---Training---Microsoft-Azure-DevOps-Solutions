@@ -1,1 +1,8 @@
 theme: jekyll-theme-architect
+title: AZ-400 - Training - Microsoft Azure DevOps Solutions
+description: Resources for led course Designing and Implementing Microsoft DevOps solutions
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
