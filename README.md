@@ -196,6 +196,7 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 
 
 **Newsletter**
+
 -[Microsoft.Source newsletter](https://azure.microsoft.com/en-us/resources/join-the-azure-developer-community/)
 
 
