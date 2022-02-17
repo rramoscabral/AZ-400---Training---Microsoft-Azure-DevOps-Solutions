@@ -29,7 +29,7 @@ Azure DevOps professionals combine people, process, and technologies to continuo
 
 The Official course outline is available [here](https://docs.microsoft.com/en-us/learn/certifications/courses/az-400t00).
 
-- The course outline from 2022 Januray is available [here](./Outline202201.md).
+- The course outline from 2022 January is available [here](./Outline202201.md).
 
 - The course Outline from 2019 is available [here](./2019/README.md).
 
