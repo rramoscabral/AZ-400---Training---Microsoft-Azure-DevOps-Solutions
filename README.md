@@ -2,7 +2,7 @@
 
 # AZ-400 - Training - Microsoft Azure DevOps Solutions
 
-Companion Material for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com).
+Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com).
 
 Training for Microsoft Official Course (MOC) AZ-400 Microsoft Azure DevOps Solutions
 
