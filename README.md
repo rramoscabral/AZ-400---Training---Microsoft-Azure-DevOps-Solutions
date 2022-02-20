@@ -203,7 +203,7 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 | PRO Git 2nd Edition | Scott Chacon | 2014 | [Link here](https://git-scm.com/book/en/v2) | 
 | Kubernetes Cookbook - Second Edition ***(Note: Free for limited time)*** | Hideto Saito , Hui-Chuan Chloe Lee , Ke-Jou Carol Hsu | May 2018 | [Link here](https://www.packtpub.com/free-ebook/Kubernetes-Cookbook-Second-Edition/9781788837606) |
 | Kubernetes on Azure Solution Bookle | Microsoft | 2021-04-10 | [Link here](https://azure.microsoft.com/en-in/resources/kubernetes-on-azure-solution-booklet/) | 
-| Kubernetes objects on Microsoft Azure, 2018-01-19 | Microsoft | 2018-01-19 | [Link here](https://azure.microsoft.com/en-us/resources/kubernetes-objects-on-microsoft-azure/en-us/) | 
+| Kubernetes objects on Microsoft Azure | Microsoft | 2018-01-19 | [Link here](https://azure.microsoft.com/en-us/resources/kubernetes-objects-on-microsoft-azure/en-us/) | 
 | The Developer’s Guide to Azure | Microsoft | 2017 | [Link here](https://azure.microsoft.com/en-us/campaigns/developer-guide/) | 
 | Serverless Design Patterns and Best Practices ***(Note: Free for limited time)*** | Brian Zambrano | April 2018 | [Link here](https://www.packtpub.com/free-ebook/Serverless-Design-Patterns-and-Best-Practices/978178862) |
 | Security best practices for Azure solutions | Microsoft | 2019-04-19 | [Link here](https://azure.microsoft.com/en-us/resources/security-best-practices-for-azure-solutions/) | 
