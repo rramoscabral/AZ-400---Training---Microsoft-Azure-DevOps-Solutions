@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: AZ-400 - Training - Microsoft Azure DevOps Solutions
-description: Resources for led course Designing and Implementing Microsoft DevOps solutions
+description: Companion material and resources for course 'Designing and Implementing Microsoft DevOps solutions' delivery by [**Ricardo Cabral**](https://www.rramoscabral.com). 
 relative_links:
   enabled: true
   collections: true
