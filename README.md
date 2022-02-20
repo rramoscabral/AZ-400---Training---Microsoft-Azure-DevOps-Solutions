@@ -9,7 +9,7 @@ Training for Microsoft Official Course (MOC) AZ-400 Microsoft Azure DevOps Solut
 Azure DevOps professionals combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
 
 - [About the course](#about-the-course)
-- [Microsoft Labs and Workshops](#microsoft-labs-and-workshops)
+- [Hands-on Labs](#hands-on-labs)
 - [Samples](#samples)
 - [Licensing & Pricing](#pricing)
 - [Resources](#resources)
@@ -52,16 +52,16 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 
 ---
 
-<a id="microsoft-labs-and-workshops" />
+<a id="hands-on-labs" />
 
 <br/>
  
  
-## Microsoft Labs and Workshops
+## Hands-on Labs 
 
-**Labs and Workshops**
+AZ-400 official course lab instructions view [here](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/)
 
-<a id="microsoft-labs-and-workshops" />
+**Other Labs**
 
  * [Activate Azure for DevOps](https://github.com/microsoft/Activate-Azure-for-DevOps)
  * Azure DevOps Demo Generator:
