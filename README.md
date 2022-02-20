@@ -11,7 +11,7 @@ Azure DevOps professionals combine people, process, and technologies to continuo
 - [About the course](#about-the-course)
 - [Microsoft Labs and Workshops](#microsoft-labs-and-workshops)
 - [Samples](#samples)
-- [Pricing](#pricing)
+- [Licensing & Pricing](#pricing)
 - [Resources](#resources)
 
 
@@ -139,7 +139,7 @@ git config --global credential.helper manager
 
 <br/>
 
-## Pricing
+## Licensing & Pricing
 
 <br/>
 
