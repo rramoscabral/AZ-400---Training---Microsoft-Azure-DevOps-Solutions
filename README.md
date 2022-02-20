@@ -174,7 +174,7 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 | Azure DevOps Blog | Official Azure DevOps Blog about DevOps, Git, and Agile updates from the team building Azure DevOps | [Link here](https://devblogs.microsoft.com/devops/) |
 | Azure DevOps Resource Center | This center combines our resources on learning DevOps practices, Git version control, Agile methods, how we work with DevOps at Microsoft, and how you can assess your own DevOps progression. | [Link here](https://docs.microsoft.com/en-us/devops/) |
 | Azure SDKs and command-line tools | SDKs and tools for managing and interacting with Azure services. | [Link here](https://azure.microsoft.com/en-us/downloads/) |
-| Channel 9 DevOps Interviews | ***Show withdrawn*** A DevOps interview show. | [Link here](https://channel9.msdn.com/Blogs/DevOps-Interviews) |
+| Channel 9 DevOps Interviews | ***Note: Show withdrawn*** A DevOps interview show. | [Link here](https://channel9.msdn.com/Blogs/DevOps-Interviews) |
 | Microsoft The DevOps Lab show | The DevOps Lab show has been reimagined for FY22! | [Link here](https://docs.microsoft.com/en-us/shows/devops-lab/) |
 | League of Extraordinary Cloud DevOps Advocates | Microsoft League of Extraordinary Cloud DevOps Advocates. | [Link here](https://leagueofextraordinaryclouddevopsadvocates.com/) or [#LoECDA](https://loecda.com/) or [LoECDA Short Link](https://aka.ms/TheLeague) | 
 
