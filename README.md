@@ -13,13 +13,15 @@ Azure DevOps professionals combine people, process, and technologies to continuo
 - [Resources](#resources)
 
 
+<br/>
+
+---
+
+<a id="about-the-course" />
 
 <br/>
 
 ## About the course
-
-<a id="about-the-course" />
-
 
  - In January 2022, the course have been update and rearrangement to 10 modules (Learning Paths). 
  - In 2020 the course was redesigned to 5 sequential days with 20 modules (Learning Paths) with the identification **AZ-400T00-A**: Designing and Implementing Microsoft DevOps solutions.
@@ -42,18 +44,18 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 
 <br/>
 
-
 [Return to top](#top)
 
 <br/>
 
 ---
 
+<a id="microsoft-labs-and-workshops" />
+
 <br/>
  
  
 ## Microsoft Labs and Workshops
-<a id="microsoft-labs-and-workshops" />
 
 **Labs and Workshops**
 
@@ -103,18 +105,19 @@ git config --global credential.helper manager
      * [Run Azure CLI in Azure Cloud Shell](https://shell.azure.com/)
   * [Run Azure CLI in a Docker container](https://docs.microsoft.com/en-us/cli/azure/run-azure-cli-docker)
  
- 
+<br/>
+
 [Return to top](#top)
 
 <br/>
 
 ---
 
+<a id="samples" />
+
 <br/>
   
 ## Samples
-
-<a id="samples" />
 
  * [.NET/C# samples for integrating with Azure DevOps Services and Azure DevOps Server](https://github.com/microsoft/azure-devops-dotnet-samples)
  * [Sample applications for Azure DevOps Project](https://github.com/microsoft/devops-project-samples)
@@ -122,20 +125,26 @@ git config --global credential.helper manager
  * [Sample Windows app to show devops best practices](https://github.com/microsoft/devops-for-windows-apps)
  
 
+<br/>
+
 [Return to top](#top)
 
 <br/>
 
 ---
 
-## Pricing
 <a id="pricing" />
+
+<br/>
+
+## Pricing
 
 <br/>
 
 * [Pricing for Azure DevOps Services](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/)
 * [Pricing for Azure DevOps Server](https://azure.microsoft.com/en-us/pricing/details/devops/server/)
 
+<br/>
 
 [Return to top](#top)
 
@@ -143,11 +152,12 @@ git config --global credential.helper manager
 
 ---
 
+<a id="resources" />
+
 <br/>
 
-## Resources
 
-<a id="resources" />
+## Resources
 
 Here are presented totally free digital resources in web format (Web Sites, Blogs, ...) and ebooks.
 
@@ -200,8 +210,12 @@ Here are presented totally free digital resources in web format (Web Sites, Blog
 **Newsletter**
 - [Microsoft.Source newsletter](https://azure.microsoft.com/en-us/resources/join-the-azure-developer-community/)
 
-
+<br/>
 
 [Return to top](#top)
+
+<br/>
+
+---
 
 <br/>
