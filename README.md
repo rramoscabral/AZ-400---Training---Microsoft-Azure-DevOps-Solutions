@@ -4,7 +4,7 @@
 
 Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com).
 
-Training for Microsoft Official Course (MOC) AZ-400 Microsoft Azure DevOps Solutions
+Training for Microsoft Official Course (MOC) AZ-400: Microsoft Azure DevOps Solutions
 
 Azure DevOps professionals combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
 
