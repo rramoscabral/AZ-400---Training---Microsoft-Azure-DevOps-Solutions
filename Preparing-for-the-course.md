@@ -10,10 +10,16 @@
 - [5. Create a new organization in Azure DevOps](#6)
 - [6. Enable Parallel jobs using Azure Subscription](#7)
 
+<br/>
+
+[**Back to main**](README.md)
 
 <br/>
 
 <a id="1" />
+
+<br/>
+
 
 **1. Redeem your Digital Microsoft Official Courseware (DMOC)**
 
@@ -32,6 +38,9 @@ To access Skillpipe:
 
 <a id="2" />
 
+<br/>
+
+
 **2. Create a Microsoft account.**
 1. Open your Internet browser in new Private window or InPrivate window.
 1. Create a new e-mail account on [Outlook.com](https://outlook.live.com/).
@@ -42,9 +51,10 @@ To access Skillpipe:
 
 <br/>
 
-
-
 <a id="3" />
+
+<br/>
+
 
 **3. Create or reuse a GitHub account**
 
@@ -63,6 +73,9 @@ If you already have a GitHub account, you can use the existing one.
 <br/>
 
 <a id="4" />
+
+<br/>
+
 
 **4. Enable an Azure subscription**
 
@@ -123,6 +136,8 @@ If you already have a GitHub account, you can use the existing one.
 
 <a id="5" />
 
+<br/>
+
 **5. Enable Online lab host** 
 
 Labs are run through an Authorized Lab Hosters(ALHs) for Microsoft Official Curriculum.
@@ -170,6 +185,8 @@ Troubleshooting
 
 <a id="6" />
 
+<br/>
+
 **6. Create a new organization in Azure DevOps.**
 
 1. Open a browser and navigate to [https://portal.azure.com](https://portal.azure.com), then search at the top of the Azure portal screen for **Azure DevOps**. In the resulting page, click **Azure DevOps organizations**. 
@@ -191,6 +208,7 @@ Troubleshooting
 
 <a id="7" />
 
+<br/>
 
 **7. Enable Parallel jobs using Azure Subscription**
 

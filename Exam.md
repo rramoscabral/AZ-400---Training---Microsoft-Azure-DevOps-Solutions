@@ -97,7 +97,6 @@ You can buy the practice test at:
 
 <br/>
 
-
 <a id="score-needed-to-pass-exam" />
 
 <br/>
