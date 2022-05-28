@@ -9,6 +9,8 @@ Training for Microsoft Official Course (MOC) AZ-400: Microsoft Azure DevOps Solu
 Azure DevOps professionals combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
 
 - [About the course](#about-the-course)
+- [Exam certification](#exam)
+- [Preparing for the course](#prepare-for-the-course)
 - [Hands-on Labs](#hands-on-labs)
 - [Samples](#samples)
 - [Licensing & Pricing](#pricing)
@@ -25,17 +27,19 @@ Azure DevOps professionals combine people, process, and technologies to continuo
 
 ## About the course
 
- - In January 2022, the course have been update and rearrangement to 10 modules (Learning Paths). 
- - In 2020 the course was redesigned to 5 sequential days with 20 modules (Learning Paths) with the identification **AZ-400T00-A**: Designing and Implementing Microsoft DevOps solutions.
- - In 2019 the course content was divided into sub-courses (AZ-400T0X) and these were one or two days which means that it was not mandatory to follow all the sub-courses.
+- In January 2022, the course have been update and rearrangement to 10 modules (Learning Paths). 
+- In 2020 the course was redesigned to 5 sequential days with 20 modules (Learning Paths) with the identification **AZ-400T00-A**: Designing and Implementing Microsoft DevOps solutions.
+- In 2019 the course content was divided into sub-courses (AZ-400T0X) and these were one or two days which means that it was not mandatory to follow all the sub-courses.
 
 <br/>
 
 The Official course outline is available [here](https://docs.microsoft.com/en-us/learn/certifications/courses/az-400t00).
 
-- The course outline from 2022 January is available [here](./Outline202201.md).
 
-- The course Outline from 2019 is available [here](./2019/README.md).
+- The course is updated regularly and you can see changes to the course outline:
+   * June 2022 is available [here](./Outline202206.md). 
+   * January 2022 is available [here](./Outline202201.md).
+   * 2019 is available [here](./2019/README.md).
 
 The exam skills measured is available [here](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400).
 
@@ -49,6 +53,47 @@ The Microsoft poster Certified is available [here](https://aka.ms/TrainCertPoste
 [Return to top](#top)
 
 <br/>
+
+
+---
+
+
+<a id="exam" />
+
+<br/>
+
+## Exam certification
+
+Exam information is available [**here**](./Exam.md).
+
+<br/>
+
+[Return to top](#top)
+
+<br/>
+
+---
+
+<a id="prepare-for-the-course" />
+
+<br/>
+
+## Preparing for the course
+
+- [1. Redeem your Digital Microsoft Official Courseware (DMOC)](./Preparing-for-the-course.md#1)
+- [2. Create a Microsoft account](./Preparing-for-the-course.md#2)
+- [3. Create or reuse a GitHub account](./Preparing-for-the-course.md#3)
+- [3. Enable an Azure subscription](./Preparing-for-the-course.md#4)
+- [4. Enable Online lab host](./Preparing-for-the-course.md#5)
+- [5. Create a new organization in Azure DevOps](./Preparing-for-the-course.md#6)
+- [6. Enable Parallel jobs using Azure Subscription](./Preparing-for-the-course.md#7)
+
+<br/>
+
+[Return to top](#top)
+
+<br/>
+
 
 ---
 
@@ -65,8 +110,8 @@ AZ-400 official course lab instructions view [here](https://microsoftlearning.gi
 
  * [Activate Azure for DevOps](https://github.com/microsoft/Activate-Azure-for-DevOps)
  * Azure DevOps Demo Generator:
-    * [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/)
-    * [Create an DevOps Organization with pre-populated sample content](https://docs.microsoft.com/en-us/azure/devops/demo-gen/use-demo-generator-v2)
+   * [Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/)
+   * [Create an DevOps Organization with pre-populated sample content](https://docs.microsoft.com/en-us/azure/devops/demo-gen/use-demo-generator-v2)
  * [Azure DevOps Labs](https://www.azuredevopslabs.com/)
  * [Azure DevOps Server Hands-On Labs](https://www.azuredevopslabs.com/labs/devopsserver/)
  * [DevOps Server 2019 Virtual Machine. User Password: P2ssw0rd](https://www.azuredevopslabs.com/labs/devopsserver/devopsvmdownload/)
@@ -102,10 +147,10 @@ git config --global credential.helper manager
  
 **Cloud and standalone container**
 
-  * Azure Cloud Shell – Browser-Based Command Line 
-     * [Run PowerShell in Azure Cloud Shell](https://shell.azure.com/)
-     * [Run Azure CLI in Azure Cloud Shell](https://shell.azure.com/)
-  * [Run Azure CLI in a Docker container](https://docs.microsoft.com/en-us/cli/azure/run-azure-cli-docker)
+* Azure Cloud Shell – Browser-Based Command Line 
+   * [Run PowerShell in Azure Cloud Shell](https://shell.azure.com/)
+   * [Run Azure CLI in Azure Cloud Shell](https://shell.azure.com/)
+   * [Run Azure CLI in a Docker container](https://docs.microsoft.com/en-us/cli/azure/run-azure-cli-docker)
  
 <br/>
 
@@ -121,10 +166,10 @@ git config --global credential.helper manager
   
 ## Samples
 
- * [.NET/C# samples for integrating with Azure DevOps Services and Azure DevOps Server](https://github.com/microsoft/azure-devops-dotnet-samples)
- * [Sample applications for Azure DevOps Project](https://github.com/microsoft/devops-project-samples)
- * [Samples showing how to auth with Azure DevOp](https://github.com/microsoft/azure-devops-auth-samples)
- * [Sample Windows app to show devops best practices](https://github.com/microsoft/devops-for-windows-apps)
+* [.NET/C# samples for integrating with Azure DevOps Services and Azure DevOps Server](https://github.com/microsoft/azure-devops-dotnet-samples)
+* [Sample applications for Azure DevOps Project](https://github.com/microsoft/devops-project-samples)
+* [Samples showing how to auth with Azure DevOp](https://github.com/microsoft/azure-devops-auth-samples)
+* [Sample Windows app to show devops best practices](https://github.com/microsoft/devops-for-windows-apps)
  
 
 <br/>
@@ -143,8 +188,15 @@ git config --global credential.helper manager
 
 <br/>
 
+* [Azure licensing FAQ](https://azure.microsoft.com/en-us/pricing/licensing-faq/)
+* [Azure Offer Details](https://azure.microsoft.com/en-us/support/legal/offer-details/)
+* [Azure pricing and billing FAQ](https://azure.microsoft.com/en-us/pricing/faq/)
+* [Azure support plans](https://azure.microsoft.com/en-us/support/plans/)
+* [Calculate your estimated hourly or monthly costs for using Azure](https://azure.microsoft.com/en-us/pricing/calculator/)
 * [Pricing for Azure DevOps Services](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/)
 * [Pricing for Azure DevOps Server](https://azure.microsoft.com/en-us/pricing/details/devops/server/)
+
+
 
 <br/>
 

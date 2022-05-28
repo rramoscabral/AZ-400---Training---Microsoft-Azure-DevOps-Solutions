@@ -28,7 +28,7 @@
 - [Introduction to DevOps](https://docs.microsoft.com/en-us/learn/modules/introduction-to-devops/)
 - [Choose the right project](https://docs.microsoft.com/en-us/learn/modules/choose-right-project/)
 - [Describe team structures](https://docs.microsoft.com/en-us/learn/modules/describe-team-structures/)
-- [Migrate to DevOps]()
+- [Migrate to DevOps](https://azure.microsoft.com/en-us/services/devops/migrate/)
 - [Introduction to source control](https://docs.microsoft.com/en-us/learn/modules/migrate-to-devops/)
 - [Describe types of source control systems](https://docs.microsoft.com/en-us/learn/modules/describe-types-of-source-control-systems/)
 - [Work with Azure Repos and GitHub](https://docs.microsoft.com/en-us/learn/modules/work-azure-repos-github/)
@@ -217,7 +217,7 @@
 ## Module 8: Create and manage containers using Docker and Kubernetes
 
 **Lessons**
-- [Design a container build strategy](ainer build strategy)
+- [Design a container build strategy]()
 - [Implement Docker multi-stage builds](https://docs.microsoft.com/en-us/learn/modules/implement-docker-multi-stage-builds/)
 - [Implement Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/learn/modules/implement-azure-kubernetes-service/)
 - [Explore Kubernetes tooling](https://docs.microsoft.com/en-us/learn/modules/explore-kubernetes-tooling/)
