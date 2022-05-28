@@ -34,7 +34,7 @@ To access Skillpipe:
 
 **2. Create a Microsoft account.**
 1. Open your Internet browser in new Private window or InPrivate window.
-1. Create a new e-mail account on `Outlook.com`.
+1. Create a new e-mail account on [Outlook.com](https://outlook.live.com/).
 
 <br/>
 
@@ -141,9 +141,9 @@ Troubleshooting
 * Use Edge, Chrome, Firefox, or another HTML5 compliant browser
 * Ensure you aren't connected to a VPN at the same time
 * If you are on a corporate network, make sure your IT department doesn't have any firewall rules that would block access
-    *[go deploy][https://docs.godeploy.it/general/connectivity-requirements]
-    *[Skilable](https://docs.learnondemandsystems.com/tms/connectivity-requires.md)
-    *[XtremeLabs](https://moc.microsoftlabsonline.com/content/skins/moc/self-servicestudentguidetomlos.pdf)
+    * [go deploy][https://docs.godeploy.it/general/connectivity-requirements]
+    * [Skilable](https://docs.learnondemandsystems.com/tms/connectivity-requires.md)
+    * [XtremeLabs](https://moc.microsoftlabsonline.com/content/skins/moc/self-servicestudentguidetomlos.pdf)
 * If there is an issue with your local network configuration, a simple reboot may resolve it
 * Lab host service status and active incident
     * [go deploy](https://status.skillable.com/)
