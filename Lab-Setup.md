@@ -1,9 +1,5 @@
 <a id="top" />
 
-
-[Back to main](./README.md)
-
-
 # Software list to run the labs 
 
  - [Required software](#required-software)
@@ -15,6 +11,11 @@
 
 **Notes:**
  1. The software list is ordered alphabetically and is not ordered by the installation sequence.
+
+
+<br/>
+
+[**Back to main**](README.md)
 
 <br/>
 

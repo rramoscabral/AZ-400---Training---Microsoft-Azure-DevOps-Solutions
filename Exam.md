@@ -1,11 +1,5 @@
 <a id="top" />
 
-
-[Back to main](./README.md)
-
-
-
-
 ## Exam
 
 
@@ -17,6 +11,10 @@
 - [Where can I take the exam](#where-can-i-take-the-exam)
 - [Exam Polices and FAQ](#exam-polices-and-faq)
 
+
+<br/>
+
+[**Back to main**](README.md)
 
 <br/>
 
