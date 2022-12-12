@@ -5,10 +5,10 @@
 - [1. Redeem your Digital Microsoft Official Courseware (DMOC)](#1)
 - [2. Create a Microsoft account](#2)
 - [3. Create or reuse a GitHub account](#3)
-- [3. Enable an Azure subscription](#4)
-- [4. Enable Online lab host](#5)
-- [5. Create a new organization in Azure DevOps](#6)
-- [6. Enable Parallel jobs using Azure Subscription](#7)
+- [4. Enable an Azure subscription](#4)
+- [5. Enable Online lab host](#5)
+- [6. Create a new organization in Azure DevOps](#6)
+- [7. Enable Parallel jobs using Azure Subscription](#7)
 
 <br/>
 
