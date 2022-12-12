@@ -83,10 +83,10 @@ Exam information is available [**here**](./Exam.md).
 - [1. Redeem your Digital Microsoft Official Courseware (DMOC)](./Preparing-for-the-course.md#1)
 - [2. Create a Microsoft account](./Preparing-for-the-course.md#2)
 - [3. Create or reuse a GitHub account](./Preparing-for-the-course.md#3)
-- [3. Enable an Azure subscription](./Preparing-for-the-course.md#4)
-- [4. Enable Online lab host](./Preparing-for-the-course.md#5)
-- [5. Create a new organization in Azure DevOps](./Preparing-for-the-course.md#6)
-- [6. Enable Parallel jobs using Azure Subscription](./Preparing-for-the-course.md#7)
+- [4. Enable an Azure subscription](./Preparing-for-the-course.md#4)
+- [5. Enable Online lab host](./Preparing-for-the-course.md#5)
+- [6. Create a new organization in Azure DevOps](./Preparing-for-the-course.md#6)
+- [7. Enable Parallel jobs using Azure Subscription](./Preparing-for-the-course.md#7)
 
 <br/>
 
