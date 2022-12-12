@@ -26,13 +26,13 @@
 
 ### **About the exam**
 
-**Microsoft Certified: Azure Developer Associate**
+**Microsoft Certified: DevOps Engineer Expert**
 
-The certification consists of only one exam. This exam measures your ability to accomplish the following technical tasks: develop Azure compute solutions; develop for Azure storage; implement Azure security; monitor, troubleshoot, and optimize Azure solutions; and connect to and consume Azure services and third-party services. You will be able to select the code language (C# or Python) that’s included in the questions when you launch the exam. 
+The certification consists of only one exam. This exam measures your ability to accomplish the following technical tasks: develop an instrumentation strategy, develop a Site Reliability Engineering (SRE) strategy, develop a security and compliance plan, manage source control, facilitate communication and collaboration, define and implement continuous integration, define and implement a continuous delivery and release management strategy. 
 
 <br/>
 
-You can explore steps to get certified as an Azure Developer Associate and the resources available to help you prepare [**here**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5)
+You can explore steps to get certified as anDevOps Engineer Expert and the resources available to help you prepare [**here**](https://learn.microsoft.com/en-us/certifications/devops-engineer/)
 
 The Microsoft Training and Certifications Guide is available [**here**](https://aka.ms/TrainingCertDeck).
 
