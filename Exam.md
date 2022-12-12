@@ -28,7 +28,7 @@
 
 **Microsoft Certified: DevOps Engineer Expert**
 
-The certification consists of only one exam. This exam measures your ability to accomplish the following technical tasks: develop an instrumentation strategy, develop a Site Reliability Engineering (SRE) strategy, develop a security and compliance plan, manage source control, facilitate communication and collaboration, define and implement continuous integration, define and implement a continuous delivery and release management strategy. 
+The certification consists on **two** exams. The Az-400 exam measures your ability to accomplish the following technical tasks: develop an instrumentation strategy, develop a Site Reliability Engineering (SRE) strategy, develop a security and compliance plan, manage source control, facilitate communication and collaboration, define and implement continuous integration, define and implement a continuous delivery and release management strategy. 
 
 <br/>
 
