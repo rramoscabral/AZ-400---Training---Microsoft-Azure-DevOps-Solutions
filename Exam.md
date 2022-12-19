@@ -32,7 +32,7 @@ The certification consists on **two** exams. The Az-400 exam measures your abili
 
 <br/>
 
-You can explore steps to get certified as anDevOps Engineer Expert and the resources available to help you prepare [**here**](https://learn.microsoft.com/en-us/certifications/devops-engineer/)
+You can explore steps to get certified as anDevOps Engineer Expert and review the resources available to help you prepare [**here**](https://learn.microsoft.com/en-us/certifications/devops-engineer/)
 
 The Microsoft Training and Certifications Guide is available [**here**](https://aka.ms/TrainingCertDeck).
 
