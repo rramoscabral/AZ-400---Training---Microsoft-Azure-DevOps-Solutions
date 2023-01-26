@@ -1,6 +1,6 @@
 <a id="top" />
 
-# Preparing for the course
+# Prepare for the course
 
 - [1. Redeem your Digital Microsoft Official Courseware (DMOC)](#1)
 - [2. Create a Microsoft account](#2)
@@ -47,7 +47,7 @@ To access Skillpipe:
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -68,7 +68,7 @@ If you already have a GitHub account, you can use the existing one.
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -130,7 +130,7 @@ If you already have a GitHub account, you can use the existing one.
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -179,7 +179,7 @@ Troubleshooting
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -202,7 +202,7 @@ Troubleshooting
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -230,6 +230,6 @@ This is necessary to enable parallel jobs and this change will take **3 hours**.
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Back to main**](./README.md)
 
 <br/>

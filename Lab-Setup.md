@@ -15,7 +15,8 @@
 
 <br/>
 
-[**Back to main**](README.md)
+
+[**Back to Hands-on Lab**](./Hands-on-labs.md) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -38,7 +39,8 @@
 | Python | https://www.python.org/downloads/ |
 
 
-[Return to top](#top)
+[**Back to top**](#top) | [**Back to Hands-on Lab**](./Hands-on-labs.md) | [**Back to main**](./README.md)
+
 <br/>
 
 ---
@@ -86,13 +88,14 @@
 | SoapUI Test Task | https://marketplace.visualstudio.com/items?itemName=AjeetChouksey.soapui |
 
 
-[Return to top](#top)
+[**Back to top**](#top) | [**Back to Hands-on Lab**](./Hands-on-labs.md) | [**Back to main**](./README.md)
+
+
 <br/>
 
 ---
 
 <br/>
-
 
 ## Visual Studio & Visual Studio Code IDE
 
@@ -108,7 +111,9 @@
  2. .NET 6 is not 100% compatible with Visual Studio 2019
 
 
-[Return to top](#top)
+[**Back to top**](#top) | [**Back to Hands-on Lab**](./Hands-on-labs.md) | [**Back to main**](./README.md)
+
+
 <br/>
 
 ---
@@ -129,8 +134,8 @@
 
 
 
+[**Back to top**](#top) | [**Back to Hands-on Lab**](./Hands-on-labs.md) | [**Back to main**](./README.md)
 
-[Return to top](#top)
 <br/>
 
 ---
@@ -157,5 +162,6 @@
 | PowerShell Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell |
 
 
-[Return to top](#top)
+[**Back to top**](#top) | [**Back to Hands-on Lab**](./Hands-on-labs.md) | [**Back to main**](./README.md)
+
 <br/>

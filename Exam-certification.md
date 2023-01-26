@@ -40,7 +40,7 @@ The Microsoft poster Certified is available [**here**](https://aka.ms/TrainCertP
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[**Back to top**](#top) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -57,7 +57,7 @@ The exam measured skills are constantly being updated due to dynamic cloud servi
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[**Back to top**](#top) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -91,7 +91,7 @@ You can buy the practice test at:
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[**Back to top**](#top) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -107,7 +107,7 @@ For more informations about the exam scoring and score reports is available [**h
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[**Back to top**](#top) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -128,7 +128,7 @@ As a result, using this sandbox should better prepare you for the exam experienc
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[**Back to top**](#top) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -169,7 +169,7 @@ If you want to take an online exam **run system test** before you register for a
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[**Back to top**](#top) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -190,7 +190,7 @@ If you want to take an online exam **run system test** before you register for a
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[**Back to top**](#top) | [**Back to main**](./README.md)
 
 <br/>
 

@@ -16,7 +16,7 @@
 
 <br/>
 
-[**Back to main**](README.md)
+[**Return back**](./About-the-course.md)
 
 <br/>
 
@@ -44,7 +44,7 @@
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Return back**](./About-the-course.md) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -69,7 +69,7 @@
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Return back**](./About-the-course.md) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -100,7 +100,7 @@
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Return back**](./About-the-course.md) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -128,7 +128,7 @@
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Return back**](./About-the-course.md) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -157,7 +157,7 @@
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Return back**](./About-the-course.md) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -186,7 +186,7 @@
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Return back**](./About-the-course.md) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -209,7 +209,7 @@
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Return back**](./About-the-course.md) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -234,7 +234,7 @@
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Return back**](./About-the-course.md) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -262,7 +262,7 @@
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Return back**](./About-the-course.md) | [**Back to main**](./README.md)
 
 <br/>
 
@@ -288,7 +288,7 @@
 
 <br/>
 
-[**Back to top**](#top) | [**Back to main**](README.md)
+[**Back to top**](#top) | [**Return back**](./About-the-course.md) | [**Back to main**](./README.md)
 
 <br/>
 

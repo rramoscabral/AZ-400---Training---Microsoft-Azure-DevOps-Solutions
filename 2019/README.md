@@ -1,4 +1,4 @@
-[Back to main](../README.md)
+[**Return back**](../About-the-course.md) | [**Back to main**](../README.md)
 
 <br/>
 
@@ -17,4 +17,4 @@ The course content before the reformulation was divided into sub-courses (AZ-400
 
 <br/>
 
-[Back to main](../README.md)
+[**Return back**](../About-the-course.md) | [**Back to main**](../README.md)
