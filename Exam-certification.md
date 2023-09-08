@@ -84,7 +84,7 @@ You can access demo tests for free. Each demo is a short version of the complete
 <br/>
 
 You can buy the practice test at:
-- [measureup](https://www.measureup.com/az-400-microsoft-azure-devops-solutions.html).
+- [measureup](https://www.measureup.com/az-400-microsoft-azure-devops-solutions.html#u5).
 - [mindhub](https://eu1.mindhub.com/az-400-microsoft-azure-devops-solutions-microsoft-official-practice-test/p/MU-AZ-400).
 
 
