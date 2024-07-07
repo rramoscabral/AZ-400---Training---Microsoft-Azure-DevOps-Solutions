@@ -22,85 +22,14 @@ parent: 'Course Syllabus'
  
 | Learning Path | Module | Practice Lab |
 | --- | --- | --- |
-| 
-
-
-[Learning Path 1: Implement development for enterprise DevOps](https://learn.microsoft.com/en-us/training/paths/az-400-work-git-for-enterprise-devops/)
-
-
-Module 1: Introduction to DevOps
-Module 2: Plan Agile with GitHub Projects and Azure Boards
-Module 3: Design and implement branch strategies and workflows
-Module 4: Collaborate with pull requests in Azure Repos
-Module 5: Explore Git hooks
-Module 6: Plan foster inner source
-Module 7: Manage and configure repositories
-Module 8: Identify technical debt
-
-
-[Learning Path 2: Implement CI with Azure Pipelines and GitHub Actions](https://learn.microsoft.com/en-us/training/paths/az-400-implement-ci-azure-pipelines-github-actions/)
-
-Module 1: Explore Azure Pipelines
-Module 2: Manage Azure Pipeline agents and pools
-Module 3: Describe pipelines and concurrency
-Module 4: Design and implement a pipeline strategy
-Module 5: Integrate with Azure Pipelines
-Module 6: Introduction to GitHub Actions
-Module 8: Learn continuous integration with GitHub Actions
-Module 9: Design a container build strategy
-
-
-[Learning Path 3: Design and implement a release strategy](https://learn.microsoft.com/en-us/training/paths/az-400-design-implement-release-strategy/)
-
-Module 1: Create a release pipeline
-Module 2: Explore release recommendations
-Module 3: Provision and test environments
-Module 4: Manage and modularize tasks and templates
-Module 5: Automate inspection of health
-
-
-[Learning Path 4: Implement a secure continuous deployment using Azure Pipelines](https://learn.microsoft.com/en-us/training/paths/az-400-implement-secure-continuous-deployment/)
-
-Module 1: Introduction to deployment patterns
-Module 2: Implement blue-green deployment and feature toggles
-Module 3: Implement canary releases and dark launching
-Module 4: Implement A/B testing and progressive exposure deployment
-Module 5: Integrate with identity management systems 
-Module 6: Manage application configuration data
-
-[Learning Path 5: Manage infrastructure as code using Azure and DSC](https://learn.microsoft.com/en-us/training/paths/az-400-manage-infrastructure-as-code-using-azure/)
-
-Module 1: Explore infrastructure as code and configuration management
-Module 2: Create Azure resources using Azure Resource Manager templates
-Module 3: Create Azure resources by using Azure CLI
-Module 4: Explore Azure Automation with DevOps
-Module 5: Implement Desired State Configuration (DSC)
-Module 6: Implement Bicep
-
-
-[Learning Path 6: Implement security and validate code bases for compliance](https://learn.microsoft.com/en-us/training/paths/az-400-implement-security-validate-code-bases-compliance/)
-
-Module 1: Introduction to Secure DevOps
-Module 2: Implement open-source software
-Module 3: Software Composition Analysis
-Module 4: Security Monitoring and Governance
-
-[Learning Path 7: AZ-400: Design and implement a dependency management strategy](https://learn.microsoft.com/en-us/training/paths/az-400-design-implement-dependency-management-strategy/)
-
-Module 1: Explore package dependencies
-Module 2: Understand package management
-Module 3: Migrate consolidate and secure artifacts 
-Module 4: Implement a versioning strategy
-Module 5: Introduction to GitHub Packages
-
-[Learning Path 8: Implement continuous feedback](https://learn.microsoft.com/en-us/training/paths/az-400-implement-continuous-feedback/)
-
-Module 1: Implement tools to track usage and flow
-Module 2: Develop monitor and status dashboards
-Module 3: Share knowledge within teams
-Module 4: Design processes to automate application analytics
-Module 5: Manage alerts, blameless retrospectives and a just culture
-
+| [Learning Path 1: Implement development for enterprise DevOps](https://learn.microsoft.com/en-us/training/paths/az-400-work-git-for-enterprise-devops/) | - [Module 1: Introduction to DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-devops/) <br/> - [Module 2: Plan Agile with GitHub Projects and Azure Boards](https://learn.microsoft.com/en-us/training/modules/plan-agile-github-projects-azure-boards/) <br/> - [Module 3: Design and implement branch strategies and workflows](https://learn.microsoft.com/en-us/training/modules/manage-git-branches-workflows/) <br/> - [Module 4: Collaborate with pull requests in Azure Repos](https://learn.microsoft.com/en-us/training/modules/collaborate-pull-requests-azure-repos/) <br/> - [Module 5: Explore Git hooks](https://learn.microsoft.com/en-us/training/modules/explore-git-hooks/) <br/> - [Module 6: Plan foster inner source](https://learn.microsoft.com/en-us/training/modules/plan-fostering-inner-source/) <br/> - [Module 7: Manage and configure repositories](https://learn.microsoft.com/en-us/training/modules/manage-git-repositories/) <br/> - [Module 8: Identify technical debt](https://learn.microsoft.com/en-us/training/modules/identify-technical-debt/) | - [Agile planning and portfolio management with Azure Boards](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M01_L01_Agile_Plan_and_Portfolio_Management_with_Azure_Boards.html)<br> - [Version Control with Git in Azure Repos](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M01_L02_Version_Control_with_Git_in_Azure_Repos.html) |
+| [Learning Path 2: Implement CI with Azure Pipelines and GitHub Actions](https://learn.microsoft.com/en-us/training/paths/az-400-implement-ci-azure-pipelines-github-actions/) | - [Module 1: Explore Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/explore-azure-pipelines/) <br/> - [Module 2: Manage Azure Pipeline agents and pools](https://learn.microsoft.com/en-us/training/modules/manage-azure-pipeline-agents-pools/) <br/> - [Module 3: Describe pipelines and concurrency](https://learn.microsoft.com/en-us/training/modules/describe-pipelines-concurrency/) <br/> - [Module 4: Design and implement a pipeline strategy](https://learn.microsoft.com/en-us/training/modules/implement-pipeline-strategy/) <br/> - [Module 5: Integrate with Azure Pipelines](https://learn.microsoft.com/en-us/training/modules/integrate-azure-pipelines/) <br/> - [Module 6: Introduction to GitHub Actions](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-actions/) <br/> - [Module 8: Learn continuous integration with GitHub Actions](https://learn.microsoft.com/en-us/training/modules/learn-continuous-integration-github-actions/) <br/> - [Module 9: Design a container build strategy](https://learn.microsoft.com/en-us/training/modules/design-container-build-strategy/) | -[Configure agent pools and understand pipeline styles](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M02_L03_Configure_Agent_Pools_and_Understand_Pipeline_Styles.html) <br/> -[Enable Continuous Integration with Azure Pipelines](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M02_L04_Enable_Continuous_Integration_with_Azure_Pipelines.html) <br/> -[Implement GitHub Actions for CI/CD](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M02_L05_Implement_GitHub_Actions_for_CI_CD.html) <br/> -[Deploy Docker containers to Azure App Service web apps](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M02_L06_Deploy_Docker_containers_to_Azure_App_Service_web_apps.html) |
+| [Learning Path 3: Design and implement a release strategy](https://learn.microsoft.com/en-us/training/paths/az-400-design-implement-release-strategy/) | - [Module 1: Create a release pipeline](https://learn.microsoft.com/en-us/training/modules/create-release-pipeline-devops/) <br/> - [Module 2: Explore release recommendations](https://learn.microsoft.com/en-us/training/modules/explore-release-strategy-recommendations/) <br/> - [Module 3: Provision and test environments](https://learn.microsoft.com/en-us/training/modules/configure-provision-environments/) <br/> - [Module 4: Manage and modularize tasks and templates](https://learn.microsoft.com/en-us/training/modules/manage-modularize-tasks-templates/) <br/> - [Module 5: Automate inspection of health](https://learn.microsoft.com/en-us/training/modules/automate-inspection-health/) | - [Configure Pipelines as Code with YAML](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M03_L07_Configure_Pipelines_as_Code_with_YAML.html)  <br/> - [Control Deployments using Release Gates](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M03_L08_Control_Deployments_using_Release_Gates.html)  <br/> - [Set up and run functional tests](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M03_L09_Set_Up_and_Run_Functional_Tests.html) |
+[Learning Path 4: Implement a secure continuous deployment using Azure Pipelines](https://learn.microsoft.com/en-us/training/paths/az-400-implement-secure-continuous-deployment/) | - [Module 1: Introduction to deployment patterns](https://learn.microsoft.com/en-us/training/modules/introduction-to-deployment-patterns/) <br/> - [Module 2: Implement blue-green deployment and feature toggles](https://learn.microsoft.com/en-us/training/modules/implement-blue-green-deployment-feature-toggles/) <br/> - [Module 3: Implement canary releases and dark launching](https://learn.microsoft.com/en-us/training/modules/implement-canary-releases-dark-launching/) <br/> - [Module 4: Implement A/B testing and progressive exposure deployment](https://learn.microsoft.com/en-us/training/modules/implement-test-progressive-exposure-deployment/) <br/> - [Module 5: Integrate with identity management systems](https://learn.microsoft.com/en-us/training/modules/integrate-identity-management-systems/) <br/> - [Module 6: Manage application configuration data](https://learn.microsoft.com/en-us/training/modules/manage-application-configuration-data/) | - [Integrate Azure Key Vault with Azure DevOps](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M04_L10_Integrate_Azure_Key_Vault_with_Azure_DevOps.html) <br/> - [Enable Dynamic Configuration and Feature Flags](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M04_L11_Enable_Dynamic_Configuration_and_Feature_Flags.html) |
+| [Learning Path 5: Manage infrastructure as code using Azure and DSC](https://learn.microsoft.com/en-us/training/paths/az-400-manage-infrastructure-as-code-using-azure/) | - [Module 1: Explore infrastructure as code and configuration management](https://learn.microsoft.com/en-us/training/modules/explore-infrastructure-code-configuration-management/) <br/> - [Module 2: Create Azure resources using Azure Resource Manager templates](https://learn.microsoft.com/en-us/training/modules/create-azure-resources-using-azure-resource-manager-templates/) <br/> - [Module 3: Create Azure resources by using Azure CLI](https://learn.microsoft.com/en-us/training/modules/create-azure-resources-by-using-azure-cli/) <br/> - [Module 4: Explore Azure Automation with DevOps](https://learn.microsoft.com/en-us/training/modules/explore-azure-automation-devops/) <br/> - [Module 5: Implement Desired State Configuration (DSC)](https://learn.microsoft.com/en-us/training/modules/implement-desired-state-configuration-dsc/) <br/> - [Module 6: Implement Bicep](https://learn.microsoft.com/en-us/training/modules/implement-bicep/) | - [Deployments using Azure Bicep templates](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M05_L12_Deployments_using_Azure_Bicep_templates.html) |
+[Learning Path 6: Implement security and validate code bases for compliance](https://learn.microsoft.com/en-us/training/paths/az-400-implement-security-validate-code-bases-compliance/) | - [Module 1: Introduction to Secure DevOps](https://learn.microsoft.com/en-us/training/modules/introduction-to-secure-devops/) <br/> - [Module 2: Implement open-source software](https://learn.microsoft.com/en-us/training/modules/implement-open-source-software-azure/) <br/> - [Module 3: Software Composition Analysis](https://learn.microsoft.com/en-us/training/modules/software-composition-analysis/) <br/> - [Module 4: Security Monitoring and Governance](https://learn.microsoft.com/en-us/training/modules/security-monitoring-and-governance/) |
+[Learning Path 7: AZ-400: Design and implement a dependency management strategy](https://learn.microsoft.com/en-us/training/paths/az-400-design-implement-dependency-management-strategy/) | - [Module 1: Explore package dependencies](https://learn.microsoft.com/en-us/training/modules/explore-package-dependencies/) <br/> - [Module 2: Understand package management](https://learn.microsoft.com/en-us/training/modules/understand-package-management/) <br/> - [Module 3: Migrate consolidate and secure artifacts](https://learn.microsoft.com/en-us/training/modules/migrate-consolidating-secure-artifacts/) <br/> - [Module 4: Implement a versioning strategy](https://learn.microsoft.com/en-us/training/modules/implement-versioning-strategy/) <br/> - [Module 5: Introduction to GitHub Packages](https://learn.microsoft.com/en-us/training/modules/introduction-github-packages/) | - [Package Management with Azure Artifacts](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M07_L13_Package_Management_with_Azure_Artifacts.html) | 
+| - [Learning Path 8: Implement continuous feedback](https://learn.microsoft.com/en-us/training/paths/az-400-implement-continuous-feedback/) | - [Module 1: Implement tools to track usage and flow](https://learn.microsoft.com/en-us/training/modules/implement-tools-track-usage-flow/) <br/> - [Module 2: Develop monitor and status dashboards](https://learn.microsoft.com/en-us/training/modules/develop-monitor-status-dashboards/) <br/> - [Module 3: Share knowledge within teams](https://learn.microsoft.com/en-us/training/modules/share-knowledge-within-teams/) <br/> - [Module 4: Design processes to automate application analytics](https://learn.microsoft.com/en-us/training/modules/design-processes-automate-application-analytics/) <br/> - [Module 5: Manage alerts, blameless retrospectives and a just culture](https://learn.microsoft.com/en-us/training/modules/manage-alerts-blameless-retrospectives-just-culture/) | - [Monitor Application Performance with Azure Load Testing](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M08_L14_Monitor_Application_Performance_with_Azure_Load_Testing.html) <br/> - [Share team knowledge using Azure Project Wiki](https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M08_L15_Share_Team_Knowledge_using_Azure_Project_Wikis.html) |
 
 <br/>
 

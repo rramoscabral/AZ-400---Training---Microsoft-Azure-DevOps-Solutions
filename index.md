@@ -4,6 +4,7 @@ layout: home
 nav_order: 1
 ---
 
+# Companion Material and Resources
 
 Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Official Course (MOC) AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions.
 
@@ -11,11 +12,11 @@ Azure DevOps professionals combine people, process, and technologies to continuo
 
 <br/>
 
-The course **AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions ** is intended for DevOps processes and practices in a version control system on GitHub and Azure DevOps.
+The course **AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions** is intended for DevOps processes and practices in a version control system on GitHub and Azure DevOps.
 
 
 |  Level        | Product                                | Role             | Course Duration  | 
-| ---           | ---                                    | ---              | ---              |
+| :---:         | :---:                                  | :---:            | :---:            |
 | Advanced      | Azure DevOps, GitHub & Azure Services  | DevOps Engineer  | 4 days           |
 
 
