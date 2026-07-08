@@ -56,6 +56,22 @@ View Azure Pass balance: https://www.microsoftazuresponsorships.com/Balance
 
 ------------------------------------------
 
+Hands-on labs instructions:
+ 
+https://aka.ms/az400-labs
+ 
+https://microsoftlearning.github.io/mslearn-devops/
+
+------------------------------------------
+
+Create or reuse GitHub account for Hands-on Labs
+https://github.com/signup
+
+
+------------------------------------------
+
+
+
 [DevOps]
 
 - Donovan Brown: https://twitter.com/donovanbrown
@@ -69,17 +85,21 @@ Agile principles
 - https://agilemanifesto.org/iso/ptpt/principles.html
 - https://www.agilealliance.org/agile101/the-agile-manifesto/
 
+
+12 Principles Behind the Agile Manifesto
+- https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
+
 ------------------------------------------
 
 
-Azure DevOps (Empresarial)
-https://dev.azure.com/[organização]/[projeto]
+Azure DevOps (Enterprise)
+https://dev.azure.com/[organization]/[project]
 
-GitHub (Open-Source / Colaborativo / Empresarial) 
-https://www.github.com/[username/organização]/[repositorio]
-  - Username: Pessoa
-  - Organização: conta organizativa
+GitHub (Open-Source / Collaborative / Enterprise)
+https://www.github.com/[username/organization]/[repository]
 
+- Username: Person
+- Organization: organizational account
 
 ------------------------------------------
 
@@ -93,10 +113,10 @@ ebook: https://git-scm.com/book/en/v2
 
 https://semver.org/
 
-   - Nova Aplicação:  1.0.0
-   - Bug fix:  1.0.1
-   - Nova funcionalidade:  1.1.1
-   - Restruturação da aplicação imcompatível com a anterior:  2.0.0
+- New Application: 1.0.0
+- Bug fix: 1.0.1
+- New feature: 1.1.1
+- Restructuring of the application incompatible with the previous version: 2.0.0
 
 
 -----------------
@@ -106,6 +126,31 @@ https://semver.org/
 Git extension for versioning large files: https://git-lfs.com/
 
 https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github
+
+
+
+-----------------
+
+
+Scalar: A set of tools and extensions for Git to allow very large monorepos to run on Git without a virtualization layer
+- https://github.com/microsoft/scalar
+
+
+----------------
+
+Visual Studio, Visual Studio Code, or Azure DevOps maketplace extensions
+
+https://marketplace.visualstudio.com/azuredevops
+
+-----------------
+
+Advanced Security billing
+https://learn.microsoft.com/en-us/azure/devops/repos/security/github-advanced-security-billing?view=azure-devops&pivots=standalone-ghazdo
+
+
+About GitHub Advanced Security
+https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security
+-----------------
 
 
 ```
@@ -167,9 +212,60 @@ Memaid Live editor: https://mermaid.live/edit
 
 -----------------
 
+
+Change project visibility to private
+https://learn.microsoft.com/en-us/azure/devops/organizations/projects/make-project-public?view=azure-devops
+
+----------------------
+
+Dockerfile reference
+https://docs.docker.com/engine/reference/builder/
+
+--------------------
+
 ```
 
 
 ---
 
 ## Day Three
+
+```
+
+Feature Toggles (aka Feature Flags)
+https://martinfowler.com/articles/feature-toggles.html
+
+--------------------
+
+Graph Explorer
+https://developer.microsoft.com/en-us/graph/graph-explorer
+
+--------------------
+
+What are ARM templates?
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/overview
+
+What is Bicep?
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep
+
+--------------------
+
+Security in DevOps (DevSecOps)
+https://learn.microsoft.com/en-us/devops/operate/security-in-devops
+
+Microsoft Security Development Lifecycle (SDL)
+https://www.microsoft.com/en-us/securityengineering/sdl/?msockid=26301c20b6d3677c14cb0ab2b798665c
+
+--------------------
+
+Microsoft Threat Modeling Tool
+https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool
+
+--------------------
+
+Open Source iniatitive
+https://opensource.org/
+ 
+--------------------
+
+```
