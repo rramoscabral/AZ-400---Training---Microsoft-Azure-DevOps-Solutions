@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Lab 3: Configure Agent Pools and Understand Pipeline Style
-nav_order: 6.12
+nav_order: 6.3
 has_children: false
 parent: 'Hands-on Labs Issues'
 ---
@@ -24,7 +24,16 @@ parent: 'Hands-on Labs Issues'
 
 # Lab 3: Configure Agent Pools and Understand Pipeline Style
 
+
 This situation was detected on 2026-07-06.
+
+
+If no organization appears when accessing Azure DevOps, try the following URLs:
+- `https://dev.azure.com/ADOCourseOrg01/`
+- `https://dev.azure.com/ADOCourseOrg03/`
+- `https://dev.azure.com/ADOCourseOrg04/`
+
+
 
 
 In the "Create agents and configure agent pools" step, instead of choosing **Presets**, choose  **Virtual Machine**.

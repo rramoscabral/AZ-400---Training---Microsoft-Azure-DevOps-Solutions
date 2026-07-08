@@ -24,13 +24,14 @@ parent: 'Hands-on Labs Issues'
 
 # Lab 12: Deployments using Azure Bicep templates
 
+
 This situation was detected on 2026-07-07.
 
-If no organization appears when accessing Azure DevOps, try the following URLs:
-- https://dev.azure.com/ADOCourseOrg01/
-- https://dev.azure.com/ADOCourseOrg03/
-- https://dev.azure.com/ADOCourseOrg04/
 
+If no organization appears when accessing Azure DevOps, try the following URLs:
+- `https://dev.azure.com/ADOCourseOrg01/`
+- `https://dev.azure.com/ADOCourseOrg03/`
+- `https://dev.azure.com/ADOCourseOrg04/`
 
 
 
@@ -404,3 +405,10 @@ inlineScript: |
 
   az deployment group create -f $(templateFile) -g $(resource-group)
 ```
+
+What's happening is that the pipeline is executing the same deployment twice.
+
+1. `az deployment group create -f $(templateFile) -g $(resource-group) -p location=$(location)`
+2. `az deployment group create -f $(templateFile) -g $(resource-group)`
+
+The first execution uses the location defined in the Bicep parameters, and the second uses the pre-defended location of the resource group. In other words, if Resource Group AZ400-RG1 is in northcentralus, the second execution will create the resources in northcentralus.
