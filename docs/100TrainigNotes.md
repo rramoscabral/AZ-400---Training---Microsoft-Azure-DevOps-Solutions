@@ -20,27 +20,7 @@ has_children: false
 ---
 
 <br/>
-
-## Resources
-
-Here are presented totally free digital resources in web format (Web Sites, Blogs, ...), ebooks and newsletters.
-
-> Note: All links have been tested. If a link does not work, the author has stopped providing the information.
-
-<br/>
-
-## Interactive Guides
-
-No content.
-
-<!-- 
-| Topic | Guide |
-| :---: | ---   | 
-| - - - | - - - |
-
---> 
-
-
+The following training notes are provided to students during the training. Note that the entire conversation is not included, nor are all notes from all training sessions given.
 
 <br/>
 
