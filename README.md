@@ -3,3 +3,6 @@
 Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Official Course (MOC) AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions.
 
 Azure DevOps professionals combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
+
+
+![Deploy Docs](https://github.com/rramoscabral/AZ-400---Training---Microsoft-Azure-DevOps-Solutions/actions/workflows/pages.yml/badge.svg)
