@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Lab 3: Configure Agent Pools and Understand Pipeline Style
+title: 'Lab 3: Configure Agent Pools and Understand Pipeline Style'
 nav_order: 6.3
 has_children: false
 parent: 'Hands-on Labs Issues'
