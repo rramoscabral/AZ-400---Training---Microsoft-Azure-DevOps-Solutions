@@ -8,6 +8,9 @@ nav_order: 1
 
 Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Official Course (MOC) AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions.
 
+
+## Overview Course AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions
+
 Azure DevOps professionals combine people, process, and technologies to continuously deliver valuable products and services that meet end user needs and business objectives.
 
 <br/>
@@ -22,11 +25,28 @@ The course **AZ-400T00-A: Designing and Implementing Microsoft DevOps solutions*
 
 <br/>
 
-**Learning objectives**
+This course provides the knowledge and skills to design and implement DevOps processes and practices. Students will learn how to plan for DevOps, use source control, scale Git for an enterprise, consolidate artifacts, design a dependency management strategy, manage secrets, implement continuous integration, implement a container build strategy, design a release strategy, set up a release management workflow, implement a deployment pattern, and optimize feedback mechanisms
+
+<br/>
+
+
+## Learning objectives
 
 Students will learn how to plan for DevOps, use source control, scale Git for an enterprise, consolidate artifacts, design a dependency management strategy, manage secrets, implement continuous integration, implement a container build strategy, design a release strategy, set up a release management workflow, implement a deployment pattern, and optimize feedback mechanisms.
 
 <br/>
+
+
+## Audience Profile
+
+Students in this course are interested in designing and implementing DevOps processes or in passing the Microsoft Azure DevOps Solutions certification exam.
+
+
+
+## Why instructor led training?
+
+**Instructor-led training (ILT)** is a highly effective method in technical education because of its unique approach. With ILT, you have direct access to experienced instructors who can provide real-time explanations, personalized feedback, and adaptable learning experiences. Interactive activities help improve understanding, while peer interaction fosters collaborative learning and networking.
+
 
 ---
 
