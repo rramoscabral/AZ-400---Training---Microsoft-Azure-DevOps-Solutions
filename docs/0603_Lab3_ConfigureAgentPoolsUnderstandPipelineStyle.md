@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Lab 3: Configure Agent Pools and Understand Pipeline Style'
-nav_order: 6.3
+nav_order: 6.03
 has_children: false
 parent: 'Hands-on Labs Issues'
 ---

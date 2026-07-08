@@ -94,14 +94,14 @@ No content.
 
 
 |  Title | Description 
-| --- | --- | --- | 
+| --- | --- | 
 | [Azure Code Samples](https://azure.microsoft.com/en-in/resources/samples/) |  Get started with Microsoft developer tools and technologies. Explore our samples and discover the things you can build. |
 | [Azure DevOps Blog](https://devblogs.microsoft.com/devops/) | Official Azure DevOps Blog about DevOps, Git, and Agile updates from the team building Azure DevOps | 
 |  [Azure DevOps Resource Center](https://docs.microsoft.com/en-us/devops/)| This center combines our resources on learning DevOps practices, Git version control, Agile methods, how we work with DevOps at Microsoft, and how you can assess your own DevOps progression. |
 | [Microsoft Developer Blogs](https://devblogs.microsoft.com/) | Get the latest information, insights, announcements, and news from Microsoft. |
 | [Microsoft The DevOps Lab show](https://docs.microsoft.com/en-us/shows/devops-lab/) | The DevOps Lab show has been reimagined for FY22! | 
-<!-- | Channel 9 DevOps Interviews | ***Note: Show withdrawn*** A DevOps interview show. | [Link here](https://channel9.msdn.com/Blogs/DevOps-Interviews) | -->
-<!-- | League of Extraordinary Cloud DevOps Advocates | Microsoft League of Extraordinary Cloud DevOps Advocates. | [Link here](https://leagueofextraordinaryclouddevopsadvocates.com/) or [#LoECDA](https://loecda.com/) or [LoECDA Short Link](https://aka.ms/TheLeague) | -->
+| Channel 9 DevOps Interviews (**This resource has been removed by the author**) | ***Note: Show withdrawn*** A DevOps interview show. [Link here](https://channel9.msdn.com/Blogs/DevOps-Interviews) | 
+| League of Extraordinary Cloud DevOps Advocates (**This resource has been removed by the author**) | Microsoft League of Extraordinary Cloud DevOps Advocates. [Link here](https://leagueofextraordinaryclouddevopsadvocates.com/) or [#LoECDA](https://loecda.com/) or [LoECDA Short Link](https://aka.ms/TheLeague) |
 
 
 
